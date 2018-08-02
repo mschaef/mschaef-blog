@@ -1,6 +1,6 @@
 title: Kerry Nietz and FoxTales
 date: 2006-07-07
-filename: ./tech/general/foxtales_redux.txt
+alias: blog/tech/general/foxtales_redux.html
 
 
 <a href="http://www.nietz.com/">Kerry Nietz</a>, author of <a 

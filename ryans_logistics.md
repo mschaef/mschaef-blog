@@ -1,6 +1,6 @@
 title: A few logistical notes
 date: 2006-08-17
-filename: ./tech/this_blog/ryans_logistics.txt
+alias: blog/tech/this_blog/ryans_logistics.html
 
 With <a
 href="http://www.mschaef.com/blog/personal/ryan_charles">Ryan</a>'s

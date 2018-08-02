@@ -1,6 +1,6 @@
 title: Ryan's First Birthday
 date: 2007-08-25
-filename: ./personal/ryan_charles/first_bday.txt
+alias: blog/personal/ryan_charles/first_bday.html
 
 Ryan, believe it or not, turned one last month. Rather than write too
 much about it, I'll let this video of his first year speak for

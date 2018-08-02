@@ -1,6 +1,6 @@
 title: Better Text for GDI Applications
 date: 2005-05-17
-filename: ./tech/general/vctext.txt
+alias: blog/tech/general/vctext.html
 
 This is <a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/gdi/fontext_1wmq.asp">well
 documented on MSDN</a>, but it's still pretty cool.

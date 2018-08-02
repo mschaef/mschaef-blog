@@ -1,6 +1,6 @@
 title: The Inspiron has arrived...
 date: 2005-06-28
-filename: ./tech/general/inspiron_6000d_is_here.txt
+alias: blog/tech/general/inspiron_6000d_is_here.html
 
 
 I haven't had as much time to play with it as I'd like, but the laptop

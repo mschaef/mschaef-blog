@@ -1,6 +1,6 @@
 title: Rocky's Boots, The Oregon Trail, and Atari 2600 Adventure
 date: 2007-06-12
-filename: ./tech/history/rocky_and_adventure.txt
+alias: blog/tech/history/rocky_and_adventure.html
 
 
 I just saw <a 

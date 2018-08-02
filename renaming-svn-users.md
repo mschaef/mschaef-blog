@@ -1,6 +1,6 @@
 title: Renaming historical users (svn:author's) in SVN repositories
 date: 2008-02-11
-filename: ./tech/programming/renaming-svn-users.txt
+alias: blog/tech/programming/renaming-svn-users.html
 
 
 I've been keeping track of the vCalc source code in an SVN repository

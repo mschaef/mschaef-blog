@@ -1,6 +1,6 @@
 title: Sleepers, Awake.
 date: 2006-01-04
-filename: ./tech/general/sleepers_awake.txt
+alias: blog/tech/general/sleepers_awake.html
 
 Now that the new year has begun, the holiday season lull in blog posts
 has started to abate.  I had wondered if posts would go down in

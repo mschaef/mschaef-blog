@@ -1,6 +1,6 @@
 title: Excel links...
 date: 2006-06-13
-filename: ./tech/excel/excel_links.txt
+alias: blog/tech/excel/excel_links.html
 
 
 Recently, I was asked for advice on how to learn Excel macro

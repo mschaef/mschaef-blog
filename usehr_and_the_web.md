@@ -1,6 +1,6 @@
 title: UseHR, High Resolution Displays, and the Internet
 date: 2005-06-30
-filename: ./tech/general/usehr_and_the_web.txt
+alias: blog/tech/general/usehr_and_the_web.html
 
 For a few years, I used this graphic as the front matter for my
 website:

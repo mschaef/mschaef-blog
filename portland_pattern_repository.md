@@ -1,6 +1,6 @@
 title: The Portland Pattern Repository
 date: 2005-02-16
-filename: ./tech/general/portland_pattern_repository.txt
+alias: blog/tech/general/portland_pattern_repository.html
 
 
 A year or two ago, I started noticing a disproportionate number

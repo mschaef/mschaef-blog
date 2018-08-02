@@ -1,6 +1,6 @@
 title: Larry Osterman on Concurrency
 date: 2005-02-22
-filename: ./tech/general/osterman_concurrency.txt
+alias: blog/tech/general/osterman_concurrency.html
 
 
 <a href="http://weblogs.asp.net/LarryOsterman">Larry Osterman</a> has

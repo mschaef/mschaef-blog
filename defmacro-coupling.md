@@ -1,6 +1,6 @@
 title: defmacro and coupling.
 date: 2008-04-10
-filename: ./tech/lisp/defmacro-coupling.txt
+alias: blog/tech/lisp/defmacro-coupling.html
 
 A few months ago, I ran into a problem with a macro that seriously
 changed my opinions on how they should be used. It all comes down to

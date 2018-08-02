@@ -1,6 +1,6 @@
 title: The abominable dialog box...
 date: 2006-06-21
-filename: ./tech/general/the_abominable_dialog_box.txt
+alias: blog/tech/general/the_abominable_dialog_box.html
 
 Every once in a while, my Windows XP laptop decides to display
 this little jewel of interaction design:

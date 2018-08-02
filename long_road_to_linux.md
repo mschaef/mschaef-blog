@@ -1,6 +1,6 @@
 title: The long^H^H^H^Hshort road to Linux...
 date: 2006-09-15
-filename: ./tech/linux/long_road_to_linux.txt
+alias: blog/tech/linux/long_road_to_linux.html
 
 
 I ran Linux for a few years back in college ('94-'97), lapsing back to

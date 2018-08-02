@@ -1,6 +1,6 @@
 title:  Does Openness Matter Anymore?
 date: 2008-06-12
-filename: ./tech/general/does_openness_really_matter.txt
+alias: blog/tech/general/does_openness_really_matter.html
 
 
 I was born in 1975. In the 'computer world', this means I grew up at

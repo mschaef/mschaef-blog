@@ -1,6 +1,6 @@
 title: New York Laundromat
 date: 2005-03-01
-filename: ./personal/nyc/laundromat.txt
+alias: blog/personal/nyc/laundromat.html
 
 
 Over the last several months, I've been spending a great deal of time

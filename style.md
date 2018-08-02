@@ -1,6 +1,6 @@
 title: Should blog posts be written like a newspaper article?
 date: 2005-06-01
-filename: ./tech/this_blog/style.txt
+alias: blog/tech/this_blog/style.html
 
 
 Should blog posts be written with the <a

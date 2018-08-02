@@ -1,6 +1,6 @@
 title: Wanna buy a car?
 date: 2006-06-15
-filename: ./misc/wanna_buy_a_car_p.txt
+alias: blog/misc/wanna_buy_a_car_p.html
 
 
 Let's see, the modern car buying experience is:

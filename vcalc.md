@@ -1,6 +1,6 @@
 title: vCalc
 date: 2005-02-08
-filename: ./tech/ectworks/vcalc/vcalc.txt
+alias: blog/tech/ectworks/vcalc/vcalc.html
 
 
 vCalc is the other side project I have going on right now. It's

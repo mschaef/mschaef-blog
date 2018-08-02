@@ -1,6 +1,6 @@
 title: Dusty Decks, Lisp, and Early Computing
 date: 2005-09-07
-filename: ./tech/history/dd_ec.txt
+alias: blog/tech/history/dd_ec.html
 
 
 I've found a couple interesting websites related to computer

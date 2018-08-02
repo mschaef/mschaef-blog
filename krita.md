@@ -1,6 +1,6 @@
 title: Krita
 date: 2006-01-27
-filename: ./tech/general/krita.txt
+alias: blog/tech/general/krita.html
 
 
 Reading <a href="http://cyrilleberger.blogspot.com/">Cyrille Berger's</a> 

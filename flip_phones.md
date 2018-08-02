@@ -1,6 +1,6 @@
 title: The scourge of flip phones....
 date: 2006-06-01
-filename: ./tech/general/flip_phones.txt
+alias: blog/tech/general/flip_phones.html
 
 
 Flip phones seem pretty popular these days. I wonder why. After all,

@@ -1,6 +1,6 @@
 title: The even more abomminable dialog box...
 date: 2006-06-27
-filename: ./tech/general/the_even_more_abominable_dialog_box.txt
+alias: blog/tech/general/the_even_more_abominable_dialog_box.html
 
 I'm sorry I had to write that title: I just ran across a dialog box even
 worse than the <a href="http://www.mschaef.com/cgi-bin/my_blosxom.cgi/tech/general/the_abominable_dialog_box.txt">

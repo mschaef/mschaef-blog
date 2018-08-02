@@ -1,6 +1,6 @@
 title: ./blosxom.cgi: 444 lines, 16674 characters.
 date: 2005-02-09
-filename: ./tech/this_blog/blosxom.txt
+alias: blog/tech/this_blog/blosxom.html
 
 
 I've spent a little time doing some things to tweak Bloxsom

@@ -1,6 +1,6 @@
 title: Programming Well: Global Variables
 date: 2005-04-12
-filename: ./tech/programming/globals.txt
+alias: blog/tech/programming/globals.html
 
 
 Global variables tend get a bad rap, kind of like goto and pointers.

@@ -1,6 +1,6 @@
 title: Random Observations
 date: 2015-04-13
-filename: ./tech/general/random_observations_2015.txt
+alias: blog/tech/general/random_observations_2015.html
 
 <p>
   A few more-or-less random observations about our industry, and various

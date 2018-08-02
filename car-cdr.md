@@ -1,6 +1,6 @@
 title: CAR, CDR, and Lisp...
 date: 2008-02-14
-filename: ./tech/lisp/car-cdr.txt
+alias: blog/tech/lisp/car-cdr.html
 
 
 A couple weeks ago, I got into a brief <a href="http://www.reddit.com">reddit</a> <a

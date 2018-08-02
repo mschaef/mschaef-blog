@@ -1,6 +1,6 @@
 title: Parenting Tip: Changing Diapers.
 date: 2006-08-31
-filename: ./personal/ryan_charles/pt_diapers.txt
+alias: blog/personal/ryan_charles/pt_diapers.html
 
 
 When diapering a little boy, it's a pretty common suggestion that you

@@ -1,6 +1,6 @@
 title: Whither XML?
 date: 2006-06-21
-filename: ./tech/general/whither_xml.txt
+alias: blog/tech/general/whither_xml.html
 
 I was skimming <a href="http://blogs.msdn.com/vincem/">Vincent
 Maraia's</a> (he has a blog!)  book, <a

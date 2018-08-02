@@ -1,6 +1,6 @@
 title: "Saving Excursions" in Excel
 date: 2005-06-02
-filename: ./tech/excel/save_excursion.txt
+alias: blog/tech/excel/save_excursion.html
 
 
 Lately, I've been finding myself spending lots of time toggling between

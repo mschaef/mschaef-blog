@@ -1,6 +1,6 @@
 title: The Linux Hater's Blog
 date: 2008-08-12
-filename: ./tech/linux/linux-haters-blog.txt
+alias: blog/tech/linux/linux-haters-blog.html
 
 
 I have a new favorite blog, the <a

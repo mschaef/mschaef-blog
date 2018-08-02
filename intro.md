@@ -1,6 +1,6 @@
 title: Programming Well...
 date: 2004-08-12
-filename: ./tech/programming/intro.txt
+alias: blog/tech/programming/intro.html
 
 
 I'm hardly an authority on programming-related issues, but over the

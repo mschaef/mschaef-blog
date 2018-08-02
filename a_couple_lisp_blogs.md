@@ -1,6 +1,6 @@
 title: A couple Lisp/Programming Language Blogs
 date: 2005-02-08
-filename: ./tech/lisp/a_couple_lisp_blogs.txt
+alias: blog/tech/lisp/a_couple_lisp_blogs.html
 
 
 One interest of mine is programming languages, and more

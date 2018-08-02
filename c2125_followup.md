@@ -1,6 +1,6 @@
 title: Cingular 2125 Followup
 date: 2008-01-12
-filename: ./tech/products/c2125_followup.txt
+alias: blog/tech/products/c2125_followup.html
 
 Last June, I wrote <a href="http://www.mschaef.com/blog/tech/products/c2125.txt">a bit</a>
 on my experiences with the Cingular 2125 Windows Smartphone. After more than a year, the 

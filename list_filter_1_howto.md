@@ -1,6 +1,6 @@
 title: List filtering with Formulas in Microsoft Excel: How it's done
 date: 2005-07-28
-filename: ./tech/excel/list_filter_1_howto.txt
+alias: blog/tech/excel/list_filter_1_howto.html
 
 Now that I've written a little about why you might want to <a
 href="http://www.mschaef.com/cgi-bin/blosxom.cgi/2005/07/18#list_filter_0_motivation">

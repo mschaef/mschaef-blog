@@ -1,6 +1,6 @@
 title: Programming Well: Write (and Read) your Data ASAP
 date: 2005-09-07
-filename: ./tech/programming/dumper.txt
+alias: blog/tech/programming/dumper.html
 
 
 One of the first functions I like to write when creating

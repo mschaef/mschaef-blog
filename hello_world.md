@@ -1,6 +1,6 @@
 title: Hello World! (It's a boy!)
 date: 2006-08-13
-filename: ./personal/ryan_charles/hello_world.txt
+alias: blog/personal/ryan_charles/hello_world.html
 
 Teresa and I are thrilled to announce the birth of our son, Ryan
 Charles Harrison Schaeffer, born July 29th, 2006 at 1:29PM, weighing 7

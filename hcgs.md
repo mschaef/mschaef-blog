@@ -1,6 +1,6 @@
 title: Beware HCGS...
 date: 2006-06-13
-filename: ./misc/hcgs.txt
+alias: blog/misc/hcgs.html
 
 <a
 href="http://dilbertblog.typepad.com/the_dilbert_blog/2006/04/helpful_critica.html">So

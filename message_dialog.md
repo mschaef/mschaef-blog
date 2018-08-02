@@ -1,6 +1,6 @@
 title: Message Dialog
 date: 2005-03-01
-filename: ./tech/general/message_dialog.txt
+alias: blog/tech/general/message_dialog.html
 
 <a href="http://www.sliver.com/dotnet/MessageDialog/">This</a> be
 should part of the Win32 API if it's not already.  Basically, it

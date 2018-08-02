@@ -1,6 +1,6 @@
 title: Excel, CR/LF, and CSV
 date: 2008-02-01
-filename: ./tech/excel/cr-lf.txt
+alias: blog/tech/excel/cr-lf.html
 
 
 I've spent a fair amount of time lately working with code that

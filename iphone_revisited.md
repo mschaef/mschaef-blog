@@ -1,6 +1,6 @@
 title: iPhone 4S
 date: 2012-01-12
-filename: ./tech/apple/iphone_revisited.txt
+alias: blog/tech/apple/iphone_revisited.html
 
 
 Not too long ago, I wrote <a

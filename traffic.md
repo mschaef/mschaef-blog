@@ -1,6 +1,6 @@
 title: Readership
 date: 2005-06-03
-filename: ./tech/this_blog/traffic.txt
+alias: blog/tech/this_blog/traffic.html
 
 Blog readership on this blog is very low.  I'd go so far as to say
 that I'm the only person that regularly hits it, and that's usually to

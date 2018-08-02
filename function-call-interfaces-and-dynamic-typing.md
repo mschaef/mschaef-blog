@@ -1,6 +1,6 @@
 title: Function Call Interfaces and Dynamic Typing
 date: 2008-01-08
-filename: ./tech/programming/function-call-interfaces-and-dynamic-typing.txt
+alias: blog/tech/programming/function-call-interfaces-and-dynamic-typing.html
 
 
 Lately, I've been thinking a bit about the way language design

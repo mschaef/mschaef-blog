@@ -1,6 +1,6 @@
 title: The End of an Era...
 date: 2006-01-13
-filename: ./tech/photo/nikon_end_of_an_era.txt
+alias: blog/tech/photo/nikon_end_of_an_era.html
 
 Nikon has just announced its intent to discontinue production of most
 of its non-Digital cameras. In a digital world, this isn't too

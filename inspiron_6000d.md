@@ -1,6 +1,6 @@
 title: Inspiron 6000d (and Laptop Shopping Advice)
 date: 2005-06-23
-filename: ./tech/general/inspiron_6000d.txt
+alias: blog/tech/general/inspiron_6000d.html
 
 
 I just placed an order for a Dell Inspiron 6000D, using one of

@@ -1,6 +1,6 @@
 title: First Post
 date: 2005-02-08
-filename: ./first_post.txt
+alias: blog/first_post.html
           
 Welcome to my little blog. This is the first post.
 

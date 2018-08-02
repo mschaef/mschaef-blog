@@ -1,6 +1,6 @@
 title: WMI and temperature probes...
 date: 2006-01-27
-filename: ./tech/win32/wmi_temperature_probes.txt
+alias: blog/tech/win32/wmi_temperature_probes.html
 
 I've spent a little more time spelunking around Win32's support for
 power and thermal management hardware. It seems like it should be

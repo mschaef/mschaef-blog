@@ -1,6 +1,6 @@
 title: Ryan's First Thanksgiving
 date: 2006-11-26
-filename: ./personal/ryan_charles/first_thanksgiving.txt
+alias: blog/personal/ryan_charles/first_thanksgiving.html
 
 
 We just got back from Ryan's first Thanksgiving holiday. Rather than spread

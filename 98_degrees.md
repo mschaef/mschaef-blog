@@ -1,6 +1,6 @@
 title: 99.0...98.9...98.8...98.7...98.6...
 date: 2006-11-17
-filename: ./personal/ryan_charles/98_degrees.txt
+alias: blog/personal/ryan_charles/98_degrees.html
 
 
 It's been a couple weeks since my last post about Ryan's first fever, 

@@ -1,6 +1,6 @@
 title: Happy New Year, 2006!
 date: 2006-01-03
-filename: ./happy_new_year_2006.txt
+alias: blog/happy_new_year_2006.html
 
 
 It's hard to believe that it's been six years since people were buying

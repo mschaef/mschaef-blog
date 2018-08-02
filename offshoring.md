@@ -1,6 +1,6 @@
 title: Outsourcing vs. Offshoring
 date: 2005-03-04
-filename: ./tech/business/offshoring.txt
+alias: blog/tech/business/offshoring.html
 
 I'm writing some content for a future post on the offshoring of jobs
 overseas, but I want to clear something up before it gets posted:

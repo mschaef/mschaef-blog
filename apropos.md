@@ -1,6 +1,6 @@
 title: "Apropos of..." Better Autofilter Results.
 date: 2005-11-04
-filename: ./tech/excel/apropos.txt
+alias: blog/tech/excel/apropos.html
 
 At my job, we use Excel extensively to keep track of software
 testing progress. One typical use is to maintain a list of features

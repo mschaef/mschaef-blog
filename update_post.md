@@ -1,6 +1,6 @@
 title: Updating Posts
 date: 2006-08-28
-filename: ./tech/this_blog/update_post.txt
+alias: blog/tech/this_blog/update_post.html
 
 One of the 'downsides' of the way <a
 href="http://www.blosxom.com/">Blosxom</a> is implemented is that is

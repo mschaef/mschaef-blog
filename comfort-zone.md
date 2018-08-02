@@ -1,6 +1,6 @@
 title: Working Outside Your Comfort Zone
 date: 2007-08-14
-filename: ./tech/general/comfort-zone.txt
+alias: blog/tech/general/comfort-zone.html
 
 
 For the better part of my career, I've straddled the fence between

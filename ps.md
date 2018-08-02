@@ -1,6 +1,6 @@
 title: PS: I think that AutoFilter is typical of Excel...
 date: 2005-07-18
-filename: ./tech/excel/ps.txt
+alias: blog/tech/excel/ps.html
 
 I think that the weaknesses of the Excel AutoFilter turn out to be
 pretty typical of Excel in general.

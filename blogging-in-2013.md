@@ -1,6 +1,6 @@
 title: Recent Blog Posts
 date: 2014-03-26
-filename: ./tech/blogging-in-2013.txt
+alias: blog/tech/blogging-in-2013.html
 
 Sorry for the radio silence, but recently I've been focusing my
 writing time on the <a href="https://www.ksmpartners.com/blog/">KSM

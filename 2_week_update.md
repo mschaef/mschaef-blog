@@ -1,5 +1,5 @@
 title: Ryan After Two Weeks
-filename: ./personal/ryan_charles/2_week_update.txt
+alias: blog/personal/ryan_charles/2_week_update.html
 date: 2006-08-17
 
 Ryan turned two weeks old the other day. In honor of the occasion we've put a 

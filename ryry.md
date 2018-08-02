@@ -1,6 +1,6 @@
 title: Ry-Ry
 date: 2006-08-23
-filename: ./personal/ryan_charles/ryry.txt
+alias: blog/personal/ryan_charles/ryry.html
 
 
 One of the criteria we had for picking Ryan's given name was

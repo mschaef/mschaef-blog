@@ -1,6 +1,6 @@
 title: I hope I never get this cynical about our industry...
 date: 2006-01-20
-filename: ./tech/general/not_this_cynical.txt
+alias: blog/tech/general/not_this_cynical.html
 
 > Look, the tech industry is and always will be fucked up. They still 
 > somehow manage to make a semi-usable product every once in a while. My Mac 

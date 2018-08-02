@@ -1,6 +1,6 @@
 title: The world's most popular functional programming language...
 date: 2005-09-20
-filename: ./tech/excel/functional_programming.txt
+alias: blog/tech/excel/functional_programming.html
 
 
 This may be something of a suprise, but Excel has even gotten

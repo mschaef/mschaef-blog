@@ -1,6 +1,6 @@
 title: Not tested? Then it doesn't work.
 date: 2008-01-20
-filename: ./tech/programming/not_tested_not_working.txt
+alias: blog/tech/programming/not_tested_not_working.html
 
 The other day, I had the following (abbreviated) dialog with my little 
 Scheme interpreter:

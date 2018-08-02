@@ -1,6 +1,6 @@
 title: I had a dream...
 date: 2005-08-24
-filename: ./tech/excel/let_in_excel.txt
+alias: blog/tech/excel/let_in_excel.html
 
 
 I literally dreamed about this last night. It would be

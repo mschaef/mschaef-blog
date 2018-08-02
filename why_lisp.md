@@ -1,6 +1,6 @@
 title: Why Lisp?
 date: 2009-04-16
-filename: ./tech/lisp/why_lisp.txt
+alias: blog/tech/lisp/why_lisp.html
 
 I recently was asked why I like Lisp. For me, it boils down to
 the fact that Lisp makes it easy to control when your code is

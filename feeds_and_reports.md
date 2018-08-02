@@ -1,6 +1,6 @@
 title: Feeds and Reports
 date: 2005-12-14
-filename: ./tech/programming/feeds_and_reports.txt
+alias: blog/tech/programming/feeds_and_reports.html
 
 I've been doing a lot of analysis of feeds and reports lately, and
 have come up with a couple suggestions for file design that can make

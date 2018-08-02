@@ -1,6 +1,6 @@
 title: More style updates...
 date: 2006-06-06
-filename: ./tech/this_blog/style_2.txt
+alias: blog/tech/this_blog/style_2.html
 
 
 With some advice from <a 

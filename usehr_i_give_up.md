@@ -1,6 +1,6 @@
 title: UseHR, I give up!!!
 date: 2005-11-16
-filename: ./tech/general/usehr_i_give_up.txt
+alias: blog/tech/general/usehr_i_give_up.html
 
 A few months ago I wrote <a
 href="http://www.mschaef.com/cgi-bin/blosxom.cgi/tech/general/usehr_and_the_web.txt">a

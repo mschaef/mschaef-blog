@@ -1,6 +1,6 @@
 title: Apple on Intel - Not^H^H^H gonna happen
 date: 2005-06-06
-filename: ./tech/apple/apple_on_intel.txt
+alias: blog/tech/apple/apple_on_intel.html
 
 
 So, the big rumor is that <a href="http://apple.slashdot.org/article.pl?sid=05/06/06/1131250&tid=118&tid=181&tid=3">

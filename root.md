@@ -1,6 +1,6 @@
 title: General posts on a topic don't go at the root...
 date: 2005-03-04
-filename: ./tech/this_blog/root.txt
+alias: blog/tech/this_blog/root.html
 
 Maybe this should have been obvious from the beginning, but I'm no
 longer putting "general interest" blog posts at the root for the

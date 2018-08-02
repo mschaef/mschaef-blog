@@ -1,6 +1,6 @@
 title: DCOM Server Process Launcher
 date: 2006-06-27
-filename: ./tech/general/dcom_server_process_launcher.txt
+alias: blog/tech/general/dcom_server_process_launcher.html
 
 
 I took a look around my computer for information on the "DCOM Server Process Launcher" referred to in <a 

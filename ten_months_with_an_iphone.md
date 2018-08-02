@@ -1,6 +1,6 @@
 title: iPhone
 date: 2009-08-05
-filename: ./tech/apple/ten_months_with_an_iphone.txt
+alias: blog/tech/apple/ten_months_with_an_iphone.html
 
 
 I've been meaning to write this for months... after switching to an

@@ -1,6 +1,6 @@
 title: MacBook 2015 Revisited
 date: 2015-04-29
-filename: ./tech/general/2015_macbook_first_impressions.txt
+alias: blog/tech/general/2015_macbook_first_impressions.html
 
 
 <p>

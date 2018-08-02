@@ -1,6 +1,6 @@
 title: Baby Fortunes, part 1
 date: 2006-09-05
-filename: ./personal/ryan_charles/baby_fortune_1.txt
+alias: blog/personal/ryan_charles/baby_fortune_1.html
 
 We received some wonderful baby fortune cookes as a gift, and I thought
 some of the fortunes were pretty interesting.  The highlights will

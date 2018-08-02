@@ -1,6 +1,6 @@
 title: Renaming SVN Users on Windows
 date: 2008-02-22
-filename: ./tech/programming/renaming-svn-users-on-windows.txt
+alias: blog/tech/programming/renaming-svn-users-on-windows.html
 
 The instructions I gave earlier on <a 
 href="http://www.mschaef.com/blog/tech/programming/renaming-svn-users.html">Renaming 

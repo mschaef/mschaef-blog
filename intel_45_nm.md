@@ -1,6 +1,6 @@
 title: Intel's 45 nanometer process...
 date: 2006-01-25
-filename: ./tech/general/intel_45_nm.txt
+alias: blog/tech/general/intel_45_nm.html
 
 
 Intel has released <a

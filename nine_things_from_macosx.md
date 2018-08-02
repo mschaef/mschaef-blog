@@ -1,6 +1,6 @@
 title: Nine things from MacOS X
 date: 2005-08-08
-filename: ./tech/general/nine_things_from_macosx.txt
+alias: blog/tech/general/nine_things_from_macosx.html
 
 
 I saw a <a href="http://www.icefox.net/articles/kdeosx.php">list of

@@ -1,6 +1,6 @@
 title: Ryan After Three Months
 date: 2006-10-21
-filename: ./personal/ryan_charles/3_month_update.txt
+alias: blog/personal/ryan_charles/3_month_update.html
 
 Believe it or not, Ryan is about to turn three months old. We've also put a few more 
 pictures online in <a href="http://www.mschaef.com/albums/ryan_3_months/"> another 

@@ -1,6 +1,6 @@
 title: Ant-up
 date: 2008-01-09
-filename: ./tech/programming/ant-up.txt
+alias: blog/tech/programming/ant-up.html
 
 In my career, I've done a bit of switching back and forth between <a
 href="http://www.gnu.org/software/emacs/">Emacs</a> and various

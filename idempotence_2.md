@@ -1,6 +1,6 @@
 title: Programming Well: Embrace Idempotence, Part 2 (It works at runtime too)
 date: 2005-03-01
-filename: ./tech/programming/idempotence/idempotence_2.txt
+alias: blog/tech/programming/idempotence/idempotence_2.html
 
 
 Idempotence has benefits at a program's run-time, as well as at build

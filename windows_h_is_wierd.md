@@ -1,6 +1,6 @@
 title: Windows.h is wierd...
 date: 2006-01-23
-nfilename: ./tech/win32/windows_h_is_wierd.txt
+nalias: blog/tech/win32/windows_h_is_wierd.html
 
 I've recently spent some time experimenting with the <a
 href="http://msdn.microsoft.com/library/en-us/

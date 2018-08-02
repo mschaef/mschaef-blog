@@ -1,6 +1,6 @@
 title: A few interesing software books.
 date: 2007-07-02
-filename: ./tech/general/book_list.txt
+alias: blog/tech/general/book_list.html
 
 I wrote this list of good software books a few years ago, in an
 effort to write down books that I've found to be interesting and/or

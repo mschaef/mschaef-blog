@@ -1,6 +1,6 @@
 title: 101.1... 101.2... 101.3... 101.4...
 date: 2006-10-27
-filename: ./personal/ryan_charles/102_degrees.txt
+alias: blog/personal/ryan_charles/102_degrees.html
 
 
 Ryan came down with a significant fever last night.  Due to measurement 

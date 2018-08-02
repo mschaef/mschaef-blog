@@ -1,6 +1,6 @@
 title: Macros and Inline Functions
 date: 2006-03-20
-filename: ./tech/general/inline.txt
+alias: blog/tech/general/inline.html
 
 I recently converted a bunch of accessor macros in vCalc over to
 inline functions. These macros are a legacy of vCalc's <a

@@ -1,6 +1,6 @@
 title: Joel is Right
 date: 2005-02-16
-filename: ./tech/general/joel_is_right.txt
+alias: blog/tech/general/joel_is_right.html
 
 Jon Galloway <a
 href="http://weblogs.asp.net/jgalloway/archive/2005/02/16/374212.aspx">recently

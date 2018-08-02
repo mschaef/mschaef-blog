@@ -1,6 +1,6 @@
 title: Long Time, No See.
 date: 2008-01-08
-filename: ./personal/long_time_no_see.txt
+alias: blog/personal/long_time_no_see.html
 
 It seems that it's been a while since I've posted: about four months. 
 That's longer then I meant, but isn't that always the case?

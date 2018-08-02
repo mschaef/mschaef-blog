@@ -1,6 +1,6 @@
 title: List filtering with Formulas in Microsoft Excel: Motivation
 date: 2005-07-18
-filename: ./tech/excel/list_filter_0_motivation.txt
+alias: blog/tech/excel/list_filter_0_motivation.html
 
 
 One of Excel's more interesting features for querying data sets is the

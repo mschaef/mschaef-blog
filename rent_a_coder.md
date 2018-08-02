@@ -1,6 +1,6 @@
 title: RentACoder
 date: 2006-07-24
-filename: ./tech/general/rent_a_coder.txt
+alias: blog/tech/general/rent_a_coder.html
 
 I recently had the opportunity (need?) to do some business through the
 <a href="http://www.rentacoder.com">RentACoder</a> website. If you're

@@ -1,6 +1,6 @@
 title: Valentine's Day Pictures
 date: 2007-02-14
-filename: ./personal/ryan_charles/valentines_day.txt
+alias: blog/personal/ryan_charles/valentines_day.html
 
 Believe it or not, Ryan turned six months old a couple weeks ago. It
 does not seem all that long ago that Teresa and I got up from sitting

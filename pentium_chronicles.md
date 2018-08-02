@@ -1,6 +1,6 @@
 title: Pentium Chronicles
 date: 2006-01-05
-filename: ./tech/general/pentium_chronicles.txt
+alias: blog/tech/general/pentium_chronicles.html
 
 I was roaming through the computer section of the University of
 Pennsylvania bookstore and ran across <a

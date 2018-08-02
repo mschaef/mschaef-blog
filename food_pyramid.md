@@ -1,6 +1,6 @@
 title: The programmer's 'food' pyramid.
 date: 2008-01-17
-filename: ./tech/programming/food_pyramid.txt
+alias: blog/tech/programming/food_pyramid.html
 
 
 I don't usually write posts for the sole purpose of linking to other

@@ -1,6 +1,6 @@
 title: SRFI-74: Octet-Addressed Binary Blocks
 date: 2005-11-04
-filename: ./tech/lisp/srfi_74.txt
+alias: blog/tech/lisp/srfi_74.html
 
 <a href="http://www-pu.informatik.uni-tuebingen.de/users/sperber/">
 Michael Sperver has written an <a href="http://srfi.schemers.org/">SRFI</a>

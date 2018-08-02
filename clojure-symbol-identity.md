@@ -1,6 +1,6 @@
 title: Symbol Identity in Lisp and Clojure
 date: 2011-06-29
-filename: ./tech/lisp/clojure-symbol-identity.txt
+alias: blog/tech/lisp/clojure-symbol-identity.html
 
 
 One typical property of Lisp systems is that they they intern

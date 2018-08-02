@@ -1,6 +1,6 @@
 title: Excel 12 Databars, Now. (Sort of)
 date: 2005-10-07
-filename: ./tech/excel/databar.txt
+alias: blog/tech/excel/databar.html
 
 Microsoft has just announced a cool new feature on the Excel 12 blog:
 the databar. I think a picture (linked from Microsoft's

@@ -1,6 +1,6 @@
 title: Excel 12's Conditional Formatting Rules
 date: 2005-10-11
-filename: ./tech/excel/excel_12_format_rules.txt
+alias: blog/tech/excel/excel_12_format_rules.html
 
 David Gainer has <a
 href="http://blogs.msdn.com/excel/archive/2005/10/11/479713.aspx">Summarized

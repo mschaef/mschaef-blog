@@ -1,6 +1,6 @@
 title: Some things never change...
 date: 2005-06-01
-filename: ./tech/apple/apple_pricing.txt
+alias: blog/tech/apple/apple_pricing.html
 
 I've been shopping for a laptop recently.  My target specs are these:
 

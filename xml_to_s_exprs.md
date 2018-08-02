@@ -1,6 +1,6 @@
 title: Mapping XML to S-Expressions
 date: 2005-06-30
-filename: ./tech/lisp/xml_to_s_exprs.txt
+alias: blog/tech/lisp/xml_to_s_exprs.html
 
 I've been playing around with how to map XML to S-Expressions nFor a
 while, I had been considering a mapping like the following:

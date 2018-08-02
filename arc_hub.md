@@ -1,6 +1,6 @@
 title: Arc Hub
 date: 2005-08-08
-filename: ./tech/lisp/arc_hub.txt
+alias: blog/tech/lisp/arc_hub.html
 
 
 <a href="http://www.paulgraham.com">Paul Graham</a> solicited comments on

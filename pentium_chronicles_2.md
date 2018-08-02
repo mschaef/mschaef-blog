@@ -1,6 +1,6 @@
 title: Pentium Chronicles, Part 2
 date: 2006-01-10
-filename: ./tech/general/pentium_chronicles_2.txt
+alias: blog/tech/general/pentium_chronicles_2.html
 
 I finished <a
 href="http://www.mschaef.com/cgi-bin/blosxom.cgi/tech/general/pentium_chronicles.txt">

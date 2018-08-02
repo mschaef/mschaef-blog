@@ -1,6 +1,6 @@
 title: Apple's new iBook
 date: 2005-07-27
-filename: ./tech/apple/apple_ibook_refresh.txt
+alias: blog/tech/apple/apple_ibook_refresh.html
 
 As rumored, <a href="http://www.apple.com/ibook/">Apple just refreshed
 the iBook</a>. The other rumor, the one about a new chassis and a

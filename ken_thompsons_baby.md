@@ -1,6 +1,6 @@
 title: Ken Thompson's Baby
 date: 2006-08-27
-filename: ./personal/ryan_charles/ken_thompsons_baby.txt
+alias: blog/personal/ryan_charles/ken_thompsons_baby.html
 
 
 There's a long running <a

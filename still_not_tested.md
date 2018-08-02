@@ -1,6 +1,6 @@
 title: Still not tested... still not working... sort of...
 date: 2008-01-21
-filename: ./tech/programming/still_not_tested.txt
+alias: blog/tech/programming/still_not_tested.html
 
 
 Another one along the lines of <a 

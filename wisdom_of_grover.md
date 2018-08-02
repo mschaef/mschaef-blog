@@ -1,6 +1,6 @@
 title: The Wisdom of Grover
 date: 2006-09-26
-filename: ./personal/ryan_charles/wisdom_of_grover.txt
+alias: blog/personal/ryan_charles/wisdom_of_grover.html
 
 Ryan's fuzzy pal, <a
 href="http://en.wikipedia.org/wiki/Grover">Grover</a>, is a very wise

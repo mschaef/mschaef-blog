@@ -1,6 +1,6 @@
 title: Blosxom is a pain in the ass^H^H^Hbutt...
 date: 2006-06-22
-filename: ./tech/this_blog/blosxom_difficulties.txt
+alias: blog/tech/this_blog/blosxom_difficulties.html
 
 
 My blog setup requires that I log in via ssh to my webserver

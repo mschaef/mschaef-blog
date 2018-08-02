@@ -1,6 +1,6 @@
 title: Visual BASIC
 date: 2005-04-12
-filename: ./tech/general/vb6.txt
+alias: blog/tech/general/vb6.html
 
 There's been some 'controversy' in the blog world about a <a
 href="http://classicvb.org/petition/">petition</a> that's circulating

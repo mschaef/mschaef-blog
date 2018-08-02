@@ -1,6 +1,6 @@
 title: Restaurant Nutritional Information
 date: 2006-03-24
-filename: ./misc/restaurant_nutrition.txt
+alias: blog/misc/restaurant_nutrition.html
 
 No geek stuff today....
 

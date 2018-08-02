@@ -1,6 +1,6 @@
 title: Oracle and Table Descriptions
 date: 2007-05-15
-filename: ./tech/general/oracle_and_table_descriptions.txt
+alias: blog/tech/general/oracle_and_table_descriptions.html
 
 The other day, I created a table in Oracle with the following command. This 
 is written in the subset of <a href="http://en.wikipedia.org/wiki/SQL"> 

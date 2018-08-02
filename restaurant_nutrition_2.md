@@ -1,6 +1,6 @@
 title: Restaurant Nutritional Information, Part 2
 date: 2006-06-16
-filename: ./misc/restaurant_nutrition_2.txt
+alias: blog/misc/restaurant_nutrition_2.html
 
 
 A couple months ago, I speculated that <a href="http://www.mschaef.com/cgi-bin/my_blosxom.cgi/misc/restaurant_nutrition.txt"><i>

@@ -1,6 +1,6 @@
 title: What is a Company for?
 date: 2005-04-12
-filename: ./tech/company.txt
+alias: blog/tech/company.html
 
 The last line of my [VB6 post](http://www.mschaef.com/cgi-bin/blosxom.cgi/2005/04/12#vb6)
 post was this: <i>"Commercial vendors, particularly, have no legal

@@ -1,6 +1,6 @@
 title: Jef Raskin
 date: 2005-02-27
-filename: ./tech/general/jef_raskin.txt
+alias: blog/tech/general/jef_raskin.html
 
 Reading <a href="http://www.slashdot.org">Slashdot</a> today, I heard
 that <a

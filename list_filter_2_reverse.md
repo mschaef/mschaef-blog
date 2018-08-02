@@ -1,6 +1,6 @@
 title: Formulas Driven from AutoFilters
 date: 2005-10-03
-filename: ./tech/excel/list_filter_2_reverse.txt
+alias: blog/tech/excel/list_filter_2_reverse.html
 
 
 <b>I had this written out and then discovered a better way. SUBTOTAL

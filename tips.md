@@ -1,6 +1,6 @@
 title: Tips on Programming
 date: 2005-11-04
-filename: ./tech/programming/tips.txt
+alias: blog/tech/programming/tips.html
 
 I don't know who this person is, but they have a good 
 collection of <a href="http://users.bestweb.net/~ctips/">programming</a>

@@ -1,6 +1,6 @@
 title: CGA... EGA... VGA... ... ... WQUXGA?!?!?
 date: 2005-06-23
-filename: ./tech/general/cga_ega_vga.txt
+alias: blog/tech/general/cga_ega_vga.html
 
 
 I thought these acronyms were dead 15 years ago, when SuperVGA and
