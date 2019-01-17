@@ -1,5 +1,6 @@
 title: Details in Java Code: Error Reporting and Loop Control Variables
 date: 2014-03-31
+sponsor: ksm
 
 Sometimes, it’s easy to focus so much on the architecture of a system
 that the details of its implementation get lost. While it’s true that

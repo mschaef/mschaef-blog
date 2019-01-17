@@ -1,5 +1,6 @@
 title: RPN Calc Part 5 – Eliminating the Globals
 date: 2013-12-17
+sponsor: ksm
 
 Throughout the last four parts of this series, the common theme has
 been that the state of the calculator program has been managed

@@ -1,5 +1,6 @@
 title: Middle School Math, Reverse Polish Notation, and Software Design
 date: 2013-10-03
+sponsor: ksm
 
 One of the things I remember most about middle school math class is
 that I went through it in a perpetual state of disorganization. During

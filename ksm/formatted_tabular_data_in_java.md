@@ -1,5 +1,6 @@
 title: Nicely Formatted Tabular Data in Java
 date: 2013-08-06
+sponsor: ksm
 
 Occasionally, it’s useful to be able to print nicely formatted tables
 of data to a textual output stream. This is particularly the case when

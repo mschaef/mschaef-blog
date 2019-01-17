@@ -1,5 +1,6 @@
 title: Threads, Line-Synchronization, and OutputStream: ThreadLocals and Java I/O
 date: 2013-07-27
+sponsor: ksm
 
 The other day, our team ran across an interesting design problem
 related to Java synchronization. Without getting into the details of

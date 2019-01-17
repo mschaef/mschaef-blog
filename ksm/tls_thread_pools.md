@@ -1,5 +1,6 @@
 title: Thread Local State and its Interaction with Thread Pools
 date: 2013-07-02
+sponsor: ksm
 
 I recently blogged about solving problems with thread local
 storage. In that instance, thread local storage was a way to add a

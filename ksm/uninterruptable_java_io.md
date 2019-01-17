@@ -1,5 +1,6 @@
 title: Why is Traditional Java I/O Uninterruptable?
 date: 2013-07-22
+sponsor: ksm
 
 One of the best things about writing code in the Java ecosystem is
 that so much of the underlying platform is open source. This makes it

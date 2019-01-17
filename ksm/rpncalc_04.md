@@ -1,5 +1,6 @@
 title: RPN Calc Part 4 – A Noun for State
 date: 2013-12-10
+sponsor: ksm
 
 In the last installment of this series, I built a basic undo facility
 on top of the command pattern. One of the problems with that

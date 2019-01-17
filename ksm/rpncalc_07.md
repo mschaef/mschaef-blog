@@ -1,5 +1,6 @@
 title: RPN Calc Part 7 – Refactoring Loops with Reduce
 date: 2014-06-01
+sponsor: ksm
 
 In the last installation of this series, we started using Java
 iterators to decompose the monolithic REPL (read-eval-print-loop) into

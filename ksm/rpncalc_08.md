@@ -1,5 +1,6 @@
 title: RPN Calc Part 8 – Moving to Clojure
 date: 2014-12-02
+sponsor: ksm
 
 So far in this series, I’ve taken a basic calculator written in Java
 and transformed it from a command-oriented procedural design into a

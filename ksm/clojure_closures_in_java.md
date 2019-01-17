@@ -1,5 +1,6 @@
 title: Clojure closures in Java
 date: 2013-08-19
+sponsor: ksm
 
 As part of a team conversation this morning, I worked up a quick Java
 translation of some more-interesting-than-it-looks Clojure code. It’s

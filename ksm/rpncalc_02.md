@@ -1,5 +1,6 @@
 title: RPN Calc Part 2 – Composite Commands
 date: 2013-10-28
+sponsor: ksm
 
 If you’ve played around with the basic version of the Java calculator,
 you may have tried to enter multiple commands on the same prompt line:

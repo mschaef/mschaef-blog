@@ -1,5 +1,6 @@
 title: RPN Calc Part 1 – A simple calculator in Java, and the Command Pattern
 date: 2013-10-21
+sponsor: ksm
 
 The first implementation of the RPN calculator I’m going to look at is
 the basic Java implementation. The link takes you directly a a view of

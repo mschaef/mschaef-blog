@@ -1,5 +1,7 @@
 title: RPN Calc Part 10 – Macros and the Intent of the Code
 date: 2014-12-20
+sponsor: ksm
+sponsor: ksm
 
 One of the key attributes I look for when writing and reviewing code
 is that code should express the intent of the developer more than the
