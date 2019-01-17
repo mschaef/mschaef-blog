@@ -2,8 +2,8 @@ title: RPN Calc Part 6 – Refactoring the REPL with an Iterator
 date: 2014-01-02
 sponsor: ksm
 
-Up to now, the calculator’s main command loop has been a
-straightforward implementation of a REPL, or
+[Up to now](/ksm/rpncalc_05), the calculator’s main command loop has
+been a straightforward implementation of a REPL, or
 ‘read-eval-print-loop’. If you’re unfamiliar with the term, REPLs are
 the traditional means that interactive programming languages use to
 provide their interactivity. REPL’s provide a command prompt that a

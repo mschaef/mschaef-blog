@@ -2,11 +2,11 @@ title: RPN Calc Part 4 – A Noun for State
 date: 2013-12-10
 sponsor: ksm
 
-In the last installment of this series, I built a basic undo facility
-on top of the command pattern. One of the problems with that
-implementation is that the `Command` class has to know too much about
-how to save and restore the overall state of the calculator. In this
-post, I’ll introduce a way around this problem.
+In the [last installment](/ksm/rpncalc_03) of this series, I built a
+basic undo facility on top of the command pattern. One of the problems
+with that implementation is that the `Command` class has to know too
+much about how to save and restore the overall state of the
+calculator. In this post, I’ll introduce a way around this problem.
 
 
 To see the problem, note that every instance of `Commandq has a

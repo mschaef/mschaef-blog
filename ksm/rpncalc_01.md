@@ -2,15 +2,14 @@ title: RPN Calc Part 1 – A simple calculator in Java, and the Command Pattern
 date: 2013-10-21
 sponsor: ksm
 
-The first implementation of the RPN calculator I’m going to look at is
-the basic Java implementation. The link takes you directly a a view of
-the source file for this version, but if you’d like to play with the
-code, you can also clone the whole project with
+The first implementation of the [RPN calculator](/ksm/rpncalc_00) I’m
+going to look at is the basic Java implementation. The link takes you
+directly a a view of the source file for this version, but if you’d
+like to play with the code, you can also clone the whole project with
 [git](https://github.com/ksmpartners/blog-rpncalc).  Cloning the git
 project will bring down all the versions of the calculator, and also
 let you compile and run the software locally. I’ll discuss more about
 how the implementation works, after the jump:
-
 
 When you run the calculator, it works a lot like an interactive
 programming language with a read-eval-print-loop (REPL). The

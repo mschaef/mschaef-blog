@@ -2,17 +2,17 @@ title: RPN Calc Part 8 – Moving to Clojure
 date: 2014-12-02
 sponsor: ksm
 
-So far in this series, I’ve taken a basic calculator written in Java
-and transformed it from a command-oriented procedural design into a
-more functional style. In some ways, this has made for simpler code:
-calculator state is better encapsulated in value objects, and explicit
-control flow structures have been replaced with domain-specific higher
-order functions. Unfortunately, Java wasn’t designed to be a
-functional language, so the notation has become progressively more
-cumbersome and lengthy. 151 lines of idiomatic Java is now 327 lines
-of inner classes, custom iterators, and inverted control flow
-patterns. It should be difficult to get this kind of code through a
-serious Java code review.
+[So far in this series](/ksm/rpncalc_07), I’ve taken a basic
+calculator written in Java and transformed it from a command-oriented
+procedural design into a more functional style. In some ways, this has
+made for simpler code: calculator state is better encapsulated in
+value objects, and explicit control flow structures have been replaced
+with domain-specific higher order functions. Unfortunately, Java
+wasn’t designed to be a functional language, so the notation has
+become progressively more cumbersome and lengthy. 151 lines of
+idiomatic Java is now 327 lines of inner classes, custom iterators,
+and inverted control flow patterns. It should be difficult to get this
+kind of code through a serious Java code review.
 
 Despite this difficulty, there is value in the functional design
 approach; What we need is a new notation. To show what I mean, this
@@ -24,7 +24,6 @@ and further optimization. Building on the Clojure port, I’ll
 ultimately build out a version of the calculator that uses eval for
 legitimate purposes, and compiles calculator macros and can run them
 almost as fast as code written directly in Java.
-
 
 The first step to understanding the Clojure port is to understand how
 it’s built from source. For the Java versions of the code, I used

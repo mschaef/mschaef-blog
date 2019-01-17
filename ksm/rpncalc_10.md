@@ -1,7 +1,6 @@
 title: RPN Calc Part 10 – Macros and the Intent of the Code
 date: 2014-12-20
 sponsor: ksm
-sponsor: ksm
 
 One of the key attributes I look for when writing and reviewing code
 is that code should express the intent of the developer more than the
@@ -39,7 +38,8 @@ what that looks like for the calculator example and how Clojure brings
 the tools needed to focus on the intent of the code.
 
 
-To level set, I’m going to go back to the calculator’s addition command:
+To level set, I’m going to go back to the calculator’s addition command
+defined in the [last installment](/ksm/rpncalc_09) of this series.:
 
 ```clojure
 (fn [ { [x y & more] :stack } ]

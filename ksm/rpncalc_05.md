@@ -10,12 +10,11 @@ command. While this works, it would be nice to remove the need for the
 global update. This post talks about how that’s done in the functional
 version of rpncalc.
 
-
-The last installment in the series updated the calculator by adding a
-Java class to model `State`. This allows the entire state of the
-calculator to be managed as a first-class entity within the
-program. That’s evident from the fact that the calculator now models
-state through a single global reference:
+The [last installment](/ksm/rpncalc_04) in the series updated the
+calculator by adding a Java class to model `State`. This allows the
+entire state of the calculator to be managed as a first-class entity
+within the program. That’s evident from the fact that the calculator
+now models state through a single global reference:
 
 ```java
 public class RpnCalc extends Calculator

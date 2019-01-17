@@ -2,8 +2,9 @@ title: RPN Calc Part 2 – Composite Commands
 date: 2013-10-28
 sponsor: ksm
 
-If you’ve played around with the basic version of the Java calculator,
-you may have tried to enter multiple commands on the same prompt line:
+If you’ve played around with the basic version of the Java calculator
+from the [last post in this series](/ksm/rpncalc_01), you may have
+tried to enter multiple commands on the same prompt line:
 
 ```clojure
 Begin: class com.ksmpartners.rpncalc.basic.RpnCalc
@@ -16,7 +17,6 @@ java.lang.NumberFormatException: For input string: "1 2"
 This is a convenient way to enter calculator commands, but it doesn’t
 work for two reasons. This post discusses why it fails, and how to fix
 it:
-
 
 The immediate failure is because the parser considers the entire input
 string as a single command, without regard to whitespace. The parser

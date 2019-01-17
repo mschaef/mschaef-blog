@@ -2,10 +2,10 @@ title: RPN Calc Part 9 – State and Commands in Clojure
 date: 2014-12-15
 sponsor: ksm
 
-In my last post, I started porting the RPN calculator example from
-Java to Clojure, moving a functional program into a functional
-language. In this post, I finish the work and show how the Clojure
-calculator models both state and calculator commands.
+In my [last post](/ksm/rpncalc_08), I started porting the RPN
+calculator example from Java to Clojure, moving a functional program
+into a functional language. In this post, I finish the work and show
+how the Clojure calculator models both state and calculator commands.
 
 Going back to the last post, the Clojure version of the
 Read-Eval-Print-Loop (REPL) has the following code.

@@ -6,8 +6,8 @@ One of the reasons given in the GoF book for the use of the command
 pattern is to support undo. By recording the commands executed by a
 user, and giving the commands the ability to reverse themselves, a
 user interface can be designed to allow users to undo mistakes they
-make. For this post, I’ll talk about how this is done in the undoable
-version of rpncalc.
+make. For this post, I’ll talk about how this is done by extending the
+[last version of the calculator](/ksm/rpncalc_02) to support undo.
 
 There are three main extensions to rpncalc that enable it to support
 undo. The first is that I’ve broadened the `Command` interface into an

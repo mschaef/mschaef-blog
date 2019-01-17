@@ -2,16 +2,16 @@ title: RPN Calc Part 7 – Refactoring Loops with Reduce
 date: 2014-06-01
 sponsor: ksm
 
-In the last installation of this series, we started using Java
-iterators to decompose the monolithic REPL (read-eval-print-loop) into
-modular compoments. This let us start decoupling the semantics of the
-REPL from the mechanisms that it uses to implement read, evaluate, and
-print. Unfortunately, the last version of rpncalc only modularized the
-command prompt itself: the ‘R’ in REPL. The evaluator and printer are
-still tightly bound to the main command loop. In this post I’ll use
-another kind of custom iterator to further decompose the main loop,
-breaking out the evaluator and leaving only the printer itself in the
-loop.
+In the [last installation](/ksm/rpncalc_06) of this series, we started
+using Java iterators to decompose the monolithic REPL
+(read-eval-print-loop) into modular compoments. This let us start
+decoupling the semantics of the REPL from the mechanisms that it uses
+to implement read, evaluate, and print. Unfortunately, the last
+version of rpncalc only modularized the command prompt itself: the ‘R’
+in REPL. The evaluator and printer are still tightly bound to the main
+command loop. In this post I’ll use another kind of custom iterator to
+further decompose the main loop, breaking out the evaluator and
+leaving only the printer itself in the loop.
 
 Going back to the original command loop from the stateobject version
 of rpncalc, the loop traverses two sequences of values in parallel.
