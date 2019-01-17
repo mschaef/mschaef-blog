@@ -2,11 +2,21 @@ title: Recent Blog Posts
 date: 2014-03-26
 alias: blog/tech/blogging-in-2013.html
 
+**Update 2019-01-17**: <i>KSM recently redesigned their website in a way that
+removes the original blog. Because of this, I've taken some of what I wrote
+then for KSM and re-hosted it here.  Thanks are due both to
+[KSM Technology Partners](https://www.ksmpartners.com/) for allowing me to
+do this and to the [Wayback Machine](https://archive.org/) for retaining
+the content. All the links below are updated to reflect the articles' new
+locations.</i>
+
+*****
+
 Sorry for the radio silence, but recently I've been focusing my
-writing time on the <a href="https://www.ksmpartners.com/blog/">KSM
-Partners Blog</a>. My writing there is still technical in nature, but
-it tends to be more heavily focused on the JVM. If you're interested,
-here are a few of what I consider to be the highlights.
+writing time on the [KSM Techology Partners](https://www.ksmpartners.com/blog/)
+Blog. My writing there is still technical in nature, but it tends to be more
+heavily focused on the JVM. If you're interested, here are a few of what I
+consider to be the highlights.
 
 In mid-2013, I started out writing about how to use <a
 href="http://docs.oracle.com/javase/6/docs/api/java/lang/Runnable.html"><tt>Runnable</tt></a>
@@ -41,14 +51,16 @@ command pattern to functional programming. The posts start off with
 Java, but will ultimately describe a Clojure implementation that
 compiles a stack based expression language into optimized Java
 bytecode. If you'd like to play with the code,
-<a href="https://github.com/ksmpartners/blog-rpncalc"> it's on github</a>
+[it's on github](https://github.com/mschaef/blog-rpncalc).
 
-* <a href="https://www.ksmpartners.com/2013/10/middle-school-math-reverse-polish-notation-and-software-design/">Middle School Math, Reverse Polish Notation, and Software Design</a>
-* <a href="https://www.ksmpartners.com/2013/10/rpn-calc-part-1-a-simple-calculator-in-java-and-the-command-pattern/">RPN Calc, Part 1 - A Simple Calculator in Java and the Command Pattern</a>
-* <a href="https://www.ksmpartners.com/2013/10/rpn-calc-part-2-composite-commands/">RPN Calc, Part 2 - Composite Commands</a>
-* <a href="https://www.ksmpartners.com/2013/11/rpn-calc-part-3-undo/">RPN Calc, Part 3 - Undo</a>
-* <a href="https://www.ksmpartners.com/2013/12/rpn-calc-part-4-a-noun-for-state/">RPN Calc, Part 4 - A Noun for State</a>
-* <a href="https://www.ksmpartners.com/2013/12/rpn-calc-part-5-eliminating-the-globals/">RPN Calc, Part 5 - Eliminating the Globals</a>
-* <a href="https://www.ksmpartners.com/2014/01/rpn-calc-part-6-refactoring-the-repl-with-an-iterator/">RPN Calc, Part 6 - Refactoring the REPL with an Iterator</a>
-* <a href="https://www.ksmpartners.com/2014/01/rpn-calc-part-7-refactoring-loops-with-reduce/">RPN Calc, Part 7 - Refactoring Loops with Reduce</a>
-
+* [Middle School Math, Reverse Polish Notation, and Software Design](/ksm/rpncalc_00)
+* [RPN Calc, Part 1 - A Simple Calculator in Java and the Command Pattern](/ksm/rpncalc_01)
+* [RPN Calc, Part 2 - Composite Commands](/ksm/rpncalc_02)
+* [RPN Calc, Part 3 - Undo](/ksm/rpncalc_03)
+* [RPN Calc, Part 4 - A Noun for State](/ksm/rpncalc_04)
+* [RPN Calc, Part 5 - Eliminating the Globals](/ksm/rpncalc_05)
+* [RPN Calc, Part 6 - Refactoring the REPL with an Iterator](/ksm/rpncalc_06)
+* [RPN Calc, Part 7 - Refactoring Loops with Reduce](/ksm/rpncalc_07)
+* [RPN Calc Part 8 – Moving to Clojure](/ksm/rpncalc_08)
+* [RPN Calc Part 9 – State and Commands in Clojure](/ksm/rpncalc_09)
+* [RPN Calc Part 10 – Macros and the Intent of the Code](/ksm/rpncalc_10)
