@@ -1,6 +1,7 @@
 title: RPN Calc Part 4 – A Noun for State
 date: 2013-12-10
 sponsor: ksm
+tags: ksm rpncalc java
 
 In the [last installment](/ksm/rpncalc_03) of this series, I built a
 basic undo facility on top of the command pattern. One of the problems

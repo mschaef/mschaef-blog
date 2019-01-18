@@ -1,6 +1,7 @@
 title: RPN Calc Part 9 – State and Commands in Clojure
 date: 2014-12-15
 sponsor: ksm
+tags: ksm rpncalc java clojure
 
 In my [last post](/ksm/rpncalc_08), I started porting the RPN
 calculator example from Java to Clojure, moving a functional program

@@ -1,6 +1,7 @@
 title: RPN Calc Part 6 – Refactoring the REPL with an Iterator
 date: 2014-01-02
 sponsor: ksm
+tags: ksm rpncalc java
 
 [Up to now](/ksm/rpncalc_05), the calculator’s main command loop has
 been a straightforward implementation of a REPL, or

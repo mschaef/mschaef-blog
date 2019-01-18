@@ -1,6 +1,7 @@
 title: RPN Calc Part 7 – Refactoring Loops with Reduce
 date: 2014-06-01
 sponsor: ksm
+tags: ksm rpncalc java
 
 In the [last installation](/ksm/rpncalc_06) of this series, we started
 using Java iterators to decompose the monolithic REPL

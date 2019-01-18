@@ -1,6 +1,7 @@
 title: RPN Calc Part 2 – Composite Commands
 date: 2013-10-28
 sponsor: ksm
+tags: ksm rpncalc java
 
 If you’ve played around with the basic version of the Java calculator
 from the [last post in this series](/ksm/rpncalc_01), you may have
