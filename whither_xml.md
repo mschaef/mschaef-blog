@@ -1,6 +1,7 @@
 title: Whither XML?
 date: 2006-06-21
 alias: blog/tech/general/whither_xml.html
+tags: tech
 
 I was skimming <a href="http://blogs.msdn.com/vincem/">Vincent
 Maraia's</a> (he has a blog!)  book, <a

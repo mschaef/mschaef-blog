@@ -1,6 +1,7 @@
 title: Excel 12 Databars, Without VBA.
 date: 2005-10-07
 alias: blog/tech/excel/databar_2.html
+tags: tech history
 
 I suspected as much, but Excel has a way to duplicate my UDF using
 Excel formulas.

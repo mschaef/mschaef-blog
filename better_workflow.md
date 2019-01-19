@@ -1,6 +1,7 @@
 title: A Better Workflow
 date: 2009-09-12
 alias: blog/tech/this_blog/better_workflow.html
+tags: tech blog
 
 It took long enough, but finally, I've taken the time to set up
 a better workflow for this blog:

@@ -1,6 +1,7 @@
 title: Ryan After Two Weeks
 alias: blog/personal/ryan_charles/2_week_update.html
-date: 2006-08-17
+date: 2006-08-1
+tags: personal
 
 Ryan turned two weeks old the other day. In honor of the occasion we've put a 
 few more pictures online in <a 

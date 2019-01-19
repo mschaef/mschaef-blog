@@ -1,7 +1,7 @@
 title: Programming Well: Global Variables
 date: 2005-04-12
 alias: blog/tech/programming/globals.html
-
+tags: tech programming
 
 Global variables tend get a bad rap, kind of like goto and pointers.
 Personally, I think they can be pretty useful if you are careful.

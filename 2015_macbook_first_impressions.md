@@ -1,7 +1,7 @@
 title: MacBook 2015 Revisited
 date: 2015-04-29
 alias: blog/tech/general/2015_macbook_first_impressions.html
-
+tags: tech
 
 <p>
   Since my last post, I dropped by an Apple Store to take a look at the

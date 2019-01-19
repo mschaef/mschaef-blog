@@ -1,7 +1,7 @@
 title: The Linux Hater's Blog
 date: 2008-08-12
 alias: blog/tech/linux/linux-haters-blog.html
-
+tags: tech linux
 
 I have a new favorite blog, the <a
 href="http://linuxhaters.blogspot.com/">Linux Hater's Blog</a>. Some

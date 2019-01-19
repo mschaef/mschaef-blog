@@ -1,6 +1,7 @@
 title: Not tested? Then it doesn't work.
 date: 2008-01-20
 alias: blog/tech/programming/not_tested_not_working.html
+tags: tech programming
 
 The other day, I had the following (abbreviated) dialog with my little 
 Scheme interpreter:

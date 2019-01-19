@@ -1,7 +1,7 @@
 title: Programming Well: Embrace Idempotence, Part 2 (It works at runtime too)
 date: 2005-03-01
 alias: blog/tech/programming/idempotence/idempotence_2.html
-
+tags: tech programming
 
 Idempotence has benefits at a program's run-time, as well as at build
 time.  To illustrate, consider the case of a reference counted

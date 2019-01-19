@@ -1,7 +1,7 @@
 title: Function Call Interfaces and Dynamic Typing
 date: 2008-01-08
 alias: blog/tech/programming/function-call-interfaces-and-dynamic-typing.html
-
+tags: tech programming lisp
 
 Lately, I've been thinking a bit about the way language design
 influences library design. My line of thought started out inspired by

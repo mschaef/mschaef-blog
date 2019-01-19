@@ -1,7 +1,7 @@
 title: Larry Osterman on Concurrency
 date: 2005-02-22
 alias: blog/tech/general/osterman_concurrency.html
-
+tags: tech programming
 
 <a href="http://weblogs.asp.net/LarryOsterman">Larry Osterman</a> has
 been running a nice <a href="http://weblogs.asp.net/larryosterman/archive/2005/02/14/372508.aspx">

@@ -1,7 +1,7 @@
 title: "Saving Excursions" in Excel
 date: 2005-06-02
-alias: blog/tech/excel/save_excursion.html
-
+alias: blog/tech/excel/save_excursion.htm
+tags: tech excel emacs
 
 Lately, I've been finding myself spending lots of time toggling between
 two Excel spreadsheets to make edits. This little macro makes it easy in

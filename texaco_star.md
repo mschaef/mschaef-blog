@@ -1,6 +1,7 @@
 title: The "Star of the American Road"
 date: 2005-06-23
 alias: blog/tech/this_blog/texaco_star.html
+tags: tech graphics
 
 Oddly enough, the search term that brings the most visitors to my
 little website is "Texaco". I suspect most of those people go away

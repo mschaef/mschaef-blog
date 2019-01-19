@@ -1,6 +1,7 @@
 title: Using Internet Explorer as a non-Anonymous FTP client
 date: 2005-07-07
 alias: blog/tech/tips/ie_non_anon_ftp.html
+tags: tech tips
 
 This is pretty <a href="http://www.cs.rutgers.edu/~watrous/user-pass-url.html">well
 documented</a> online, but I can never seem to find it when I need it. So, I'm

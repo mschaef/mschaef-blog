@@ -1,6 +1,7 @@
 title: Experience and Dogma
 date: 2009-02-12
 alias: blog/tech/programming/experience_and_dogma.html
+tags: tech programming
 
 In the recent debate surronding the <a
 href="http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod">SOLID

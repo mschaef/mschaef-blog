@@ -1,10 +1,10 @@
 title: Pentium Chronicles, Part 2
 date: 2006-01-10
 alias: blog/tech/general/pentium_chronicles_2.html
+tags: tech history
 
-I finished <a
-href="http://www.mschaef.com/cgi-bin/blosxom.cgi/tech/general/pentium_chronicles.txt">
-Pentium Chronicles</a> on the train the other day. Given that the full
+I finished <a href="/pentium_chronicles">Pentium Chronicles</a> on the
+train the other day. Given that the full
 title of the book is <i>Pentium Chronicles: The People, Passion, and
 Politics Behind Intel's Landmark Chips</i>, I have to say that I
 expected something entirely different than I got. What I had thought

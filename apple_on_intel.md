@@ -1,7 +1,7 @@
 title: Apple on Intel - Not^H^H^H gonna happen
 date: 2005-06-06
 alias: blog/tech/apple/apple_on_intel.html
-
+tags: tech apple hardware
 
 So, the big rumor is that <a href="http://apple.slashdot.org/article.pl?sid=05/06/06/1131250&tid=118&tid=181&tid=3">
 Apple is switching to Intel processors</a>, and Steve Jobs is going to make the announcement during his

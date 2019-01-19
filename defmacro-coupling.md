@@ -1,6 +1,7 @@
 title: defmacro and coupling.
 date: 2008-04-10
 alias: blog/tech/lisp/defmacro-coupling.html
+tags: tech lisp
 
 A few months ago, I ran into a problem with a macro that seriously
 changed my opinions on how they should be used. It all comes down to

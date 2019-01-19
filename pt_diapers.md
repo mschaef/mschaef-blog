@@ -1,7 +1,7 @@
 title: Parenting Tip: Changing Diapers.
 date: 2006-08-31
 alias: blog/personal/ryan_charles/pt_diapers.html
-
+tags: personal
 
 When diapering a little boy, it's a pretty common suggestion that you
 take steps to prevent spurious pee from making too much of a

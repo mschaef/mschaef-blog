@@ -1,6 +1,7 @@
 title: Dell Service Manuals
 date: 2005-05-27
 alias: blog/tech/general/dell_docs.html
+tags: tech hardware
 
 This is cool... I knew IBM (er, Lenovo) did <a
 href="http://support.dell.com/support/systemsinfo/documentation.aspx?c=us&cs=555&l=en&s=biz">this</a>,

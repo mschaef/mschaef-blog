@@ -1,7 +1,7 @@
 title: Excel links...
 date: 2006-06-13
-alias: blog/tech/excel/excel_links.html
-
+alias: blog/tech/excel/excel_links.htm
+tags: tech excel
 
 Recently, I was asked for advice on how to learn Excel macro
 programming.  I'm not the expert, but I read sites and books written

@@ -1,6 +1,7 @@
 title: Everybody has a theory...
 date: 2006-07-24
 alias: blog/tech/general/linux_theories.html
+tags: tech linux
 
 In a <a
 href="http://os.newsforge.com/article.pl?sid=06/07/17/1535230">recent

@@ -1,12 +1,12 @@
 title: Kerry Nietz and FoxTales
 date: 2006-07-07
-alias: blog/tech/general/foxtales_redux.html
-
+alias: blog/tech/general/foxtales_redux.htm
+tags: tech history
 
 <a href="http://www.nietz.com/">Kerry Nietz</a>, author of <a 
 href="http://www.amazon.com/gp/product/1930919506/104-3479054-5315925?v=glance&n=283155">
 FoxTales</a>, dropped me a note regarding a <a 
-href="http://www.mschaef.com/cgi-bin/blosxom.cgi/tech/general/pentium_chronicles.txt">
+href="/pentium_chronicles">
 comment</a> I made about his book back in January. I thought it was worth 
 repeating part of my response here:
 

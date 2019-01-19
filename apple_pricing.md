@@ -1,6 +1,7 @@
 title: Some things never change...
 date: 2005-06-01
 alias: blog/tech/apple/apple_pricing.html
+tags: tech apple
 
 I've been shopping for a laptop recently.  My target specs are these:
 

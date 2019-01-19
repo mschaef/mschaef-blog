@@ -1,6 +1,7 @@
 title: Tips on Programming
 date: 2005-11-04
 alias: blog/tech/programming/tips.html
+tags: tech programming
 
 I don't know who this person is, but they have a good 
 collection of <a href="http://users.bestweb.net/~ctips/">programming</a>

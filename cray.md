@@ -1,6 +1,7 @@
 title: Seymour Cray
 date: 2005-05-17
 alias: blog/tech/general/cray.html
+tags: tech history in-memoriam
 
 For some reason, I've been thinking a lot lately about Seymour Cray.
 When I was growing up, I remember asking my dad about who made the

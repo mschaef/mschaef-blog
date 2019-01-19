@@ -1,6 +1,7 @@
 title: Pentium Chronicles
 date: 2006-01-05
 alias: blog/tech/general/pentium_chronicles.html
+tags: tech history
 
 I was roaming through the computer section of the University of
 Pennsylvania bookstore and ran across <a

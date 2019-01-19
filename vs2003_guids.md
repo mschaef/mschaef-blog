@@ -1,6 +1,7 @@
 title: Visual Studio 2003 Safety Tip: Your Projects have GUIDs
 date: 2006-03-20
 alias: blog/tech/general/vs2003_guids.html
+tags: tech programming
 
 If you ever manually work with Visual Studio 2003
 projects (`*.vcproj` files), be aware that projects have both

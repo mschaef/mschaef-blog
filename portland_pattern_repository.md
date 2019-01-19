@@ -1,7 +1,7 @@
 title: The Portland Pattern Repository
 date: 2005-02-16
-alias: blog/tech/general/portland_pattern_repository.html
-
+alias: blog/tech/general/portland_pattern_repository.htm
+tags: tech programming
 
 A year or two ago, I started noticing a disproportionate number
 of my programming queries on Google ended up at <a href="http://www.c2.com">

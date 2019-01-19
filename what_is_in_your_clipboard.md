@@ -1,6 +1,7 @@
 title: What's in *your* clipboard...
 date: 2006-06-23
 alias: blog/tech/excel/what_is_in_your_clipboard.html
+tags: tech win32
 
 The clipboard is one of the oldest and most often used data exchange
 mechanisms in Microsoft Windows.  It's been around since Windows 1.0

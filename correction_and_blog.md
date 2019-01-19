@@ -1,6 +1,7 @@
 title: A correction and another blog.
 date: 2008-02-14
 alias: blog/tech/general/correction_and_blog.html
+tags: tech blog
 
 * There was a copy/paste error in the version of <a href="http://www.mschaef.com/blog/tech/programming/ant-up.html">ant-up</a> 
   I posted a while ago. It has now been corrected.

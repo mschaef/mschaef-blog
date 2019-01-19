@@ -1,6 +1,7 @@
 title: Feeds and Reports
 date: 2005-12-14
 alias: blog/tech/programming/feeds_and_reports.html
+tags: tech programming
 
 I've been doing a lot of analysis of feeds and reports lately, and
 have come up with a couple suggestions for file design that can make

@@ -1,7 +1,7 @@
 title: Programming Well: Write (and Read) your Data ASAP
 date: 2005-09-07
 alias: blog/tech/programming/dumper.html
-
+tags: tech programming
 
 One of the first functions I like to write when creating
 a new data structure is a human-readable dumper. This

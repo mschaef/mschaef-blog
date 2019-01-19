@@ -1,6 +1,7 @@
 title: TiVo Series 2 and Wifi
 date: 2006-01-06
 alias: blog/tech/tips/tivo_series2_wifi.html
+tags: tech
 
 My wife and I recently bought a TiVo Series2 for ourselves, as well as
 a second one as a gift for my parents.  Both are set up to use WiFi as

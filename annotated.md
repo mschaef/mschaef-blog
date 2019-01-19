@@ -1,6 +1,7 @@
 title: Blosxom, Annotated
 date: 2005-02-22
 alias: blog/tech/this_blog/annotated.html
+tags: tech blog
 
 <a href="http://www.hecker.org/">Frank Hecker</a>, in an effort to teach himself 
 more about <a href="http://www.blosxom.com/">Blosxom</a> has done a <b>cool</b>

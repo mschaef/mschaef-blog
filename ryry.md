@@ -1,7 +1,7 @@
 title: Ry-Ry
 date: 2006-08-23
 alias: blog/personal/ryan_charles/ryry.html
-
+tags: personal
 
 One of the criteria we had for picking Ryan's given name was
 that it should be difficult to shorten into a nickname. This

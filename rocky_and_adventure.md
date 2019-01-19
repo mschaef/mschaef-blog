@@ -1,7 +1,7 @@
 title: Rocky's Boots, The Oregon Trail, and Atari 2600 Adventure
 date: 2007-06-12
 alias: blog/tech/history/rocky_and_adventure.html
-
+tags: tech history
 
 I just saw <a 
 href="http://apple.slashdot.org/apple/07/06/12/1212237.shtml"O>this 

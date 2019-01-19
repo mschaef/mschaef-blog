@@ -1,7 +1,7 @@
 title: Working Outside Your Comfort Zone
 date: 2007-08-14
 alias: blog/tech/general/comfort-zone.html
-
+tags: tech career
 
 For the better part of my career, I've straddled the fence between
 pure software development roles and consulting roles.  My first job

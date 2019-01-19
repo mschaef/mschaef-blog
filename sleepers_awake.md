@@ -1,6 +1,7 @@
 title: Sleepers, Awake.
 date: 2006-01-04
 alias: blog/tech/general/sleepers_awake.html
+tagss: blog
 
 Now that the new year has begun, the holiday season lull in blog posts
 has started to abate.  I had wondered if posts would go down in

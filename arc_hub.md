@@ -1,7 +1,7 @@
 title: Arc Hub
 date: 2005-08-08
 alias: blog/tech/lisp/arc_hub.html
-
+tags: tech lisp
 
 <a href="http://www.paulgraham.com">Paul Graham</a> solicited comments on
 his <a href="http://www.paulgraham.com/arc.html">Arc</a> programming

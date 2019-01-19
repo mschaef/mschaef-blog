@@ -1,7 +1,7 @@
 title: New York Laundromat
 date: 2005-03-01
 alias: blog/personal/nyc/laundromat.html
-
+tags: tech personal
 
 Over the last several months, I've been spending a great deal of time
 in New York City on business. In that time, I have never been quite

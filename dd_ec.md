@@ -1,7 +1,7 @@
 title: Dusty Decks, Lisp, and Early Computing
 date: 2005-09-07
 alias: blog/tech/history/dd_ec.html
-
+tags: tech lisp history
 
 I've found a couple interesting websites related to computer
 history. The first is <a href="http://www.mcjones.org/dustydecks/">Dusty

@@ -1,7 +1,7 @@
 title: CAR, CDR, and Lisp...
 date: 2008-02-14
 alias: blog/tech/lisp/car-cdr.html
-
+tags: tech lisp
 
 A couple weeks ago, I got into a brief <a href="http://www.reddit.com">reddit</a> <a
 href="http://reddit.com/info/677u6/comments/c031w9f">discussion</a> on the relative merits

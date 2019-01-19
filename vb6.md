@@ -1,6 +1,7 @@
 title: Visual BASIC
 date: 2005-04-12
 alias: blog/tech/general/vb6.html
+tags: tech programming vb
 
 There's been some 'controversy' in the blog world about a <a
 href="http://classicvb.org/petition/">petition</a> that's circulating

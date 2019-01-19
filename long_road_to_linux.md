@@ -1,7 +1,7 @@
 title: The long^H^H^H^Hshort road to Linux...
 date: 2006-09-15
 alias: blog/tech/linux/long_road_to_linux.html
-
+tags: tech linux hardware
 
 I ran Linux for a few years back in college ('94-'97), lapsing back to
 Windows for professional reasons when I started working full

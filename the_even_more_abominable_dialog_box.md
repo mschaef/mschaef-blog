@@ -1,9 +1,10 @@
 title: The even more abomminable dialog box...
 date: 2006-06-27
 alias: blog/tech/general/the_even_more_abominable_dialog_box.html
+tags: tech gripe
 
 I'm sorry I had to write that title: I just ran across a dialog box even
-worse than the <a href="http://www.mschaef.com/cgi-bin/my_blosxom.cgi/tech/general/the_abominable_dialog_box.txt">
+worse than the <a href="the_abominable_dialog_box">
 abominable dialog box</a>.  I now humbly present the 'even more abominable dialog box':
 
 <center>

@@ -1,9 +1,10 @@
 title: List filtering with Formulas in Microsoft Excel: How it's done
 date: 2005-07-28
 alias: blog/tech/excel/list_filter_1_howto.html
+tags: tech excel
 
 Now that I've written a little about why you might want to <a
-href="http://www.mschaef.com/cgi-bin/blosxom.cgi/2005/07/18#list_filter_0_motivation">
+href="/list_filter_0_motivation">
 replace Excel AutoFilter</a>, here's how to actually do it. To frame
 the discussion, there are two problems to solve:
 

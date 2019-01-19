@@ -1,7 +1,7 @@
 title: 101.1... 101.2... 101.3... 101.4...
 date: 2006-10-27
 alias: blog/personal/ryan_charles/102_degrees.html
-
+tags: personal
 
 Ryan came down with a significant fever last night.  Due to measurement 
 'complexities', it's hard to know for sure what the exact number is, but I 

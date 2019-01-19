@@ -1,6 +1,7 @@
 title: Updating Posts
 date: 2006-08-28
 alias: blog/tech/this_blog/update_post.html
+tags: tech blog
 
 One of the 'downsides' of the way <a
 href="http://www.blosxom.com/">Blosxom</a> is implemented is that is

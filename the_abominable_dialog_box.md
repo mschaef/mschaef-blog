@@ -1,6 +1,7 @@
 title: The abominable dialog box...
 date: 2006-06-21
 alias: blog/tech/general/the_abominable_dialog_box.html
+tags: tech gripe
 
 Every once in a while, my Windows XP laptop decides to display
 this little jewel of interaction design:

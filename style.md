@@ -1,13 +1,12 @@
 title: Should blog posts be written like a newspaper article?
 date: 2005-06-01
 alias: blog/tech/this_blog/style.html
-
+tags: blog
 
 Should blog posts be written with the <a
 href="http://www.freep.com/jobspage/academy/writing.htm"> essential
 content at the beginning</a> and less interesting details at the end?
-Or is <a
-href="http://www.mschaef.com/cgi-bin/blosxom.cgi/2005/06/01#apple_pricing">putting
+Or is <a href="/apple_pricing">putting
 the punchline at the end</a> acceptable?
 
 Since people <a href="http://www.useit.com/alertbox/9710a.html">tend

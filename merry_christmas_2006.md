@@ -1,6 +1,7 @@
 title: Merry Christmas!
 date: 2006-12-26
 alias: blog/personal/merry_christmas_2006.html
+tags: personal blog
 
 Well, another Christmas has come and gone. This one was particularly
 special for us, since it was both Ryan's first Christmas and our first

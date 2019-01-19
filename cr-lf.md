@@ -1,7 +1,7 @@
 title: Excel, CR/LF, and CSV
 date: 2008-02-01
 alias: blog/tech/excel/cr-lf.html
-
+tags: tech excel
 
 I've spent a fair amount of time lately working with code that
 generates Comma Seperated Value files for loading into Excel.  You'd

@@ -1,6 +1,7 @@
 title: Ryan After One Month
 date: 2006-09-04
 alias: blog/personal/ryan_charles/1_month_update.html
+tags: personal
 
 Ryan turned one month old the other day! In honor of the occasion we've put a 
 few more pictures online in <a 

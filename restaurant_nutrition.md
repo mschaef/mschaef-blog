@@ -1,6 +1,7 @@
 title: Restaurant Nutritional Information
 date: 2006-03-24
 alias: blog/misc/restaurant_nutrition.html
+tags: personal health
 
 No geek stuff today....
 

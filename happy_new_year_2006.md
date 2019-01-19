@@ -1,7 +1,7 @@
 title: Happy New Year, 2006!
 date: 2006-01-03
 alias: blog/happy_new_year_2006.html
-
+tags: blog
 
 It's hard to believe that it's been six years since people were buying
 out stocks of portable generators and predicting the end of the

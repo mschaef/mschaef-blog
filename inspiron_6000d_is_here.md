@@ -1,7 +1,7 @@
 title: The Inspiron has arrived...
 date: 2005-06-28
 alias: blog/tech/general/inspiron_6000d_is_here.html
-
+tags: tech hardware
 
 I haven't had as much time to play with it as I'd like, but the laptop
 arrived today.  In the hour I've had it running, so far I'm quite impressed.

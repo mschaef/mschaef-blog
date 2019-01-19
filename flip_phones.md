@@ -1,7 +1,7 @@
 title: The scourge of flip phones....
 date: 2006-06-01
 alias: blog/tech/general/flip_phones.html
-
+tags: tech phone
 
 Flip phones seem pretty popular these days. I wonder why. After all,
 the hinge is just a weak spot in the structure of the phone. It also

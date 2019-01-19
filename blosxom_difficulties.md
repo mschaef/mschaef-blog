@@ -1,7 +1,7 @@
 title: Blosxom is a pain in the ass^H^H^Hbutt...
 date: 2006-06-22
 alias: blog/tech/this_blog/blosxom_difficulties.html
-
+tags: tech blog
 
 My blog setup requires that I log in via ssh to my webserver
 to use a text editor to edit articles in raw HTML. This is the

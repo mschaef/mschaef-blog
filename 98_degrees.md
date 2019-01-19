@@ -1,7 +1,7 @@
 title: 99.0...98.9...98.8...98.7...98.6...
 date: 2006-11-17
 alias: blog/personal/ryan_charles/98_degrees.html
-
+tags: personal
 
 It's been a couple weeks since my last post about Ryan's first fever, 
 but I'm pleased to say we got through it without much incident.  The 

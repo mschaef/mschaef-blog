@@ -1,7 +1,7 @@
 title: vCalc
 date: 2005-02-08
 alias: blog/tech/ectworks/vcalc/vcalc.html
-
+tags: tech lisp vcalc
 
 vCalc is the other side project I have going on right now. It's
 a simple RPN style calculator written for Win32. Underlying

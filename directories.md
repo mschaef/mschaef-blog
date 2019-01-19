@@ -1,5 +1,6 @@
 title:Working with Directories
 date: 2016-09-30
+tags: tech bash git
 
 This is a bash function definition that takes you to the top level
 directory of a git project.

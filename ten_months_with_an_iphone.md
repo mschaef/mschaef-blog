@@ -1,7 +1,7 @@
 title: iPhone
 date: 2009-08-05
-alias: blog/tech/apple/ten_months_with_an_iphone.html
-
+alias: blog/tech/apple/ten_months_with_an_iphone.htm
+tags: tech phone hardware
 
 I've been meaning to write this for months... after switching to an
 iPhone last October I have some thoughts on the transition away from

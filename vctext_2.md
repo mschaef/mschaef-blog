@@ -1,11 +1,11 @@
 title: It looks better on an LCD, honest!
 date: 2005-06-03
-alias: blog/tech/general/vctext_2.html
+alias: blog/tech/general/vctext_2.htm
+tags: tech win32 graphics
 
-<a
-href="http://www.mschaef.com/cgi-bin/my_blosxom.cgi/2005/05/17#vctext">This</a>
-post spoke to the use of ClearType to improve text rendering in vCalc.
-This "after" screenshot was taken from a laptop running ClearType:
+<a href="/vctext">This</a> post spoke to the use of ClearType to improve
+text rendering in vCalc. This "after" screenshot was taken from a laptop
+running ClearType:
 
 <img src="http://www.mschaef.com/vctext_after.jpg">
 

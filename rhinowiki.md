@@ -1,5 +1,6 @@
 title: Rhinowiki
 date: 2018-08-03
+tags: tech blog git clojure
 
 It's been a long time coming, but I've finally replaced
 [blosxom](http://blosxom.sourceforge.net/) with a *custom CMS* I've

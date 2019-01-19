@@ -1,9 +1,9 @@
 title: UseHR, I give up!!!
 date: 2005-11-16
 alias: blog/tech/general/usehr_i_give_up.html
+tags: tech graphics
 
-A few months ago I wrote <a
-href="http://www.mschaef.com/cgi-bin/blosxom.cgi/tech/general/usehr_and_the_web.txt">a
+A few months ago I wrote <a href="/usehr_and_the_web">a
 bit </a> on the impact of high resolution displays on the way Internet
 Explorer renders graphics. I had really planned on using the default
 setting. Not anymore!

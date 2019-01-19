@@ -1,7 +1,7 @@
 title: Symbol Identity in Lisp and Clojure
 date: 2011-06-29
 alias: blog/tech/lisp/clojure-symbol-identity.html
-
+tags: tech lisp clojure
 
 One typical property of Lisp systems is that they they intern
 symbols. Roughly speaking, when symbols are interned, two symbols with

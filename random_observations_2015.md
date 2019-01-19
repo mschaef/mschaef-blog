@@ -1,6 +1,7 @@
 title: Random Observations
 date: 2015-04-13
 alias: blog/tech/general/random_observations_2015.html
+tags: tech
 
 <p>
   A few more-or-less random observations about our industry, and various

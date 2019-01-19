@@ -1,6 +1,7 @@
 title: Some historical context around Apple/x86
 date: 2005-06-30
 alias: blog/tech/apple/apple_on_intel_3.html
+tags: tech apple hardware
 
 I ran across this quote the other day from
 <a href="http://www.pbs.org/cringely/pulpit/pulpit19971014.html">I, cringely</a>:

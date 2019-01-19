@@ -1,6 +1,7 @@
 title: Commodore Amiga Marketing
 date: 2005-06-30
 alias: blog/tech/general/commodore_marketing.html
+tags: tech history
 
 Heh... saw some quotes on <a href="http://www.slashdot.org">Slashdot</a>
 referring to Commodore's marketing of the old Amiga. I thought they were

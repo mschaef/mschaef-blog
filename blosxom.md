@@ -1,7 +1,7 @@
 title: ./blosxom.cgi: 444 lines, 16674 characters.
 date: 2005-02-09
 alias: blog/tech/this_blog/blosxom.html
-
+tags: tech blog
 
 I've spent a little time doing some things to tweak Bloxsom
 so that it fits better into my website. So far, I've:

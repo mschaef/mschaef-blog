@@ -1,6 +1,7 @@
 title: 2 Months With the 'Revolution'.
 date: 2006-11-18
 alias: blog/tech/linux/linux_and_the_revolution.html
+tags: tech hardware linux
 
 It's been about two months since I've installed Ubuntu Linux on my
 Dell Inspiron 6000 laptop. The <a

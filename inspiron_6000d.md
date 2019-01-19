@@ -1,7 +1,7 @@
 title: Inspiron 6000d (and Laptop Shopping Advice)
 date: 2005-06-23
 alias: blog/tech/general/inspiron_6000d.html
-
+tags: tech hardware
 
 I just placed an order for a Dell Inspiron 6000D, using one of
 Dell's recent $750 off deals. With any luck, it'll ship in

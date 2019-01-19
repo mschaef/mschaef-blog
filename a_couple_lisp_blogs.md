@@ -1,7 +1,7 @@
 title: A couple Lisp/Programming Language Blogs
 date: 2005-02-08
 alias: blog/tech/lisp/a_couple_lisp_blogs.html
-
+tags: tech lisp
 
 One interest of mine is programming languages, and more
 specifically, Lisp and Scheme. Lately, the blogosphere

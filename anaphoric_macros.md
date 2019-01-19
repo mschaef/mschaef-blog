@@ -1,6 +1,7 @@
 title: Anaphoric Macros in Emacs Lisp
 date: 2012-05-30
-alias: blog/tech/emacs/anaphoric_macros.html
+alias: blog/tech/emacs/anaphoric_macros.htm
+tags: tech emacs lisp
 
 In my Lisp programming, I find myself using <a
 href="http://c2.com/cgi/wiki?AnaphoricLispMacros">Anaphoric Macros</a>

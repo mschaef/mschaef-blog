@@ -1,6 +1,7 @@
 title: A few good Lisp and Scheme (and Smalltalk) Related Links
 date: 2005-03-04
 alias: blog/tech/lisp/more_links.html
+tags: techlisp
 
 It never ceases to amaze me how much good material there is
 online. Here's some more:

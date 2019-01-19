@@ -1,6 +1,7 @@
 title: Excel 12's Conditional Formatting Rules
 date: 2005-10-11
 alias: blog/tech/excel/excel_12_format_rules.html
+tags: tech excel graphics
 
 David Gainer has <a
 href="http://blogs.msdn.com/excel/archive/2005/10/11/479713.aspx">Summarized
@@ -19,7 +20,7 @@ approaches for current versions of Excel:
   the cell, percentages, percentiles, or a formula. See the posts on
   data bars, color scales, and icon sets for more information on each
   of these. - <b><a
-  href="http://www.mschaef.com/cgi-bin/my_blosxom.cgi/tech/excel/databar.txt">
+  href="/databar">
   This approach to 'databars'</a> generalizes to formula-based
   scaling, although it's not as pretty, not a color scale, and not an
   icon set. </b>

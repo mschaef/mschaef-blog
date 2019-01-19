@@ -1,8 +1,9 @@
 title: What is a Company for?
 date: 2005-04-12
 alias: blog/tech/company.html
+tags: tech business vb
 
-The last line of my [VB6 post](http://www.mschaef.com/cgi-bin/blosxom.cgi/2005/04/12#vb6)
+The last line of my [VB6 post](/vb6)
 post was this: <i>"Commercial vendors, particularly, have no legal
 obligation to their customers."</i> To clarify this, companies are
 legally obligated to their owners, not their customers. Since the

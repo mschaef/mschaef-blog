@@ -1,6 +1,7 @@
 title: Ryan Charles Harrison Schaeffer
 date: 2006-09-04
 alias: blog/personal/ryan_charles/rchs.html
+tags: personal
 
 Where did Ryan's name come from? Lots of agonizing.  We didn't find
 out Ryan's gender prior to his birth and for some reason it was easier

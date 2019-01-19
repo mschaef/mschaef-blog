@@ -1,6 +1,7 @@
 title: Joel is Right
 date: 2005-02-16
 alias: blog/tech/general/joel_is_right.html
+tags: tech programming
 
 Jon Galloway <a
 href="http://weblogs.asp.net/jgalloway/archive/2005/02/16/374212.aspx">recently

@@ -1,7 +1,7 @@
 title:  Does Openness Matter Anymore?
 date: 2008-06-12
 alias: blog/tech/general/does_openness_really_matter.html
-
+tags: tech business
 
 I was born in 1975. In the 'computer world', this means I grew up at
 the tail end of the 8-bit era. By the time I was a teenager the market

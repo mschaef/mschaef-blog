@@ -1,7 +1,7 @@
 title: iPhone 4S
 date: 2012-01-12
 alias: blog/tech/apple/iphone_revisited.html
-
+tags: tech hardware phone
 
 Not too long ago, I wrote <a
 href="http://www.mschaef.com/blog/tech/apple/ten_months_with_an_iphone.html">a

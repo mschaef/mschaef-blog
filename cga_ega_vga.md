@@ -1,7 +1,7 @@
 title: CGA... EGA... VGA... ... ... WQUXGA?!?!?
 date: 2005-06-23
 alias: blog/tech/general/cga_ega_vga.html
-
+tags: tech graphics
 
 I thought these acronyms were dead 15 years ago, when SuperVGA and
 the 8514/A started to replace the VGA. here's a 

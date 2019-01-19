@@ -1,5 +1,6 @@
 title: Small Computing History Resources
 date: 2018-12-21
+tags: tech history
 
 I've lately run across several interesting small computer history
 sites. If you have any interest in small computing's emergence from

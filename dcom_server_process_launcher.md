@@ -1,10 +1,10 @@
 title: DCOM Server Process Launcher
 date: 2006-06-27
 alias: blog/tech/general/dcom_server_process_launcher.html
-
+tags: tech
 
 I took a look around my computer for information on the "DCOM Server Process Launcher" referred to in <a 
-href="http://www.mschaef.com/cgi-bin/my_blosxom.cgi/tech/general/the_even_more_abominable_dialog_box.txt">this post</a>.  
+href="/the_even_more_abominable_dialog_box">this post</a>.  
 Fortunately, Microsoft's services control panel has a place to put descriptive text.  The description for the "DCOM Server 
 Process Launcher" reads "Provides Launch Functionality for DCOM Services".  Seriously.
 

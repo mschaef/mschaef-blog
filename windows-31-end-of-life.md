@@ -1,6 +1,7 @@
 title: The End of 16-bit Windows
 date: 2008-11-06
 alias: blog/tech/history/windows-31-end-of-life.html
+tags: tech history win32
 
 In an era in which customers are almost begging Microsoft not to
 discontinue Windows XP, I was suprised to see <a

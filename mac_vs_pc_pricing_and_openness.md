@@ -1,6 +1,7 @@
 title: Macintosh vs. PC Pricing, and missing the point.
 date: 2008-08-18
 alias: blog/tech/apple/mac_vs_pc_pricing_and_openness.html
+tags: tech hardware
 
 Harry McCracken just wrote <a 
 href="http://technologizer.com/2008/08/14/are-macs-more-expensive-lets-do-the-math-once-and-for-all/"> 

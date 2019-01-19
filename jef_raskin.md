@@ -1,6 +1,7 @@
 title: Jef Raskin
 date: 2005-02-27
 alias: blog/tech/general/jef_raskin.html
+tags: tech in-memoriam
 
 Reading <a href="http://www.slashdot.org">Slashdot</a> today, I heard
 that <a

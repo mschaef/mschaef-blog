@@ -1,6 +1,7 @@
 title: MoveAfterReturn, OnTime, and the Excel Status Bar
 date: 2005-09-20
 alias: blog/tech/excel/on_time.html
+tags: tech excel
 
 I really liked
 <a href="http://www.dicks-blog.com/archives/2005/09/19/move-after-selection/#comments">

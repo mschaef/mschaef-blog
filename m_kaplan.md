@@ -1,6 +1,7 @@
 title: Michael Kaplan's Blog and a Few Other Good Links
 date: 2005-03-01
 alias: blog/tech/general/m_kaplan.html
+tags: tech
 
 Another useful blog from <a href="http://www.microsoft.com">Microsoft</a>.
 <a href="http://weblogs.asp.net/michkap/">Michael Kaplan has been blogging</a>

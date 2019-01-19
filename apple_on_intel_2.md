@@ -1,6 +1,7 @@
 title: So it's true...
 date: 2005-06-06
 alias: blog/tech/apple/apple_on_intel_2.html
+tags: tech apple hardware
 
 I didn't believe it was possible when I first heard the rumors a few
 weeks ago, but <a href="http://biz.yahoo.com/prnews/050606/sfm142.html?.v=9">Here

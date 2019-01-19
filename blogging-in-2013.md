@@ -1,6 +1,7 @@
 title: Recent Blog Posts
 date: 2014-03-26
 alias: blog/tech/blogging-in-2013.html
+tags: tech blog ksm clojure java lisp
 
 Sorry for the radio silence, but recently I've been focusing my
 writing time on the <a href="https://www.ksmpartners.com/blog/">KSM

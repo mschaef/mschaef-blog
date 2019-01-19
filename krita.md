@@ -1,7 +1,7 @@
 title: Krita
 date: 2006-01-27
 alias: blog/tech/general/krita.html
-
+tags: tech graphics
 
 Reading <a href="http://cyrilleberger.blogspot.com/">Cyrille Berger's</a> 
 blog has been quite interesting lately.  He's been slowly plugging away at 

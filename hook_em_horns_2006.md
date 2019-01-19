@@ -1,6 +1,7 @@
 title: Hook 'Em Horns...
 date: 2006-01-05
 alias: blog/personal/hook_em_horns_2006.html
+tags: personal
 
 My alma mater, <a href="http://www.utexas.edu">The University of Texas
 at Austin</a>, <a

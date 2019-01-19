@@ -1,6 +1,7 @@
 title: A good couple of weeks for laptops...
 date: 2006-05-24
 alias: blog/tech/general/good_week_for_laptops.html
+tags: tech 
 
 Sorry for the long delay between posts... it's been a busy couple of
 months.

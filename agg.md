@@ -1,6 +1,7 @@
 title: Anti Grain Geometry
 date: 2005-05-27
 alias: blog/tech/general/agg.html
+tags: tech graphics
 
 I just found about it, but I already think it might end up in vCalc.  <a 
 href="http://www.antigrain.com/">Anti Grain Geometry</a> is a open source 2D rendering library with a 

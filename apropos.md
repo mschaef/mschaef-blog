@@ -1,6 +1,7 @@
 title: "Apropos of..." Better Autofilter Results.
 date: 2005-11-04
 alias: blog/tech/excel/apropos.html
+tags: tech excel
 
 At my job, we use Excel extensively to keep track of software
 testing progress. One typical use is to maintain a list of features

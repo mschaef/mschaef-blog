@@ -1,6 +1,7 @@
 title: Readership
 date: 2005-06-03
 alias: blog/tech/this_blog/traffic.html
+tags: blog
 
 Blog readership on this blog is very low.  I'd go so far as to say
 that I'm the only person that regularly hits it, and that's usually to

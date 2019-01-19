@@ -1,6 +1,7 @@
 title: I guess I had forgotten how slow I/O was, particularly bad I/O.
 date: 2005-03-02
 alias: blog/tech/lisp/slow_io.html
+tags: tech lisp programming performance
 
 I'm in the middle of developing a Scheme compiler for a future release of
 vCalc. While I've been developing the code, I've peppered it full of debugging

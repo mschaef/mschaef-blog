@@ -1,6 +1,7 @@
 title: Memory bandwidth and modern processors...
 date: 2006-01-20
 alias: blog/tech/general/bandwidth_stream.html
+tags: tech performance
 
 I saw this over on the [STREAM](http://www.cs.virginia.edu/stream/) website.
 

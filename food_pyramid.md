@@ -1,7 +1,7 @@
 title: The programmer's 'food' pyramid.
 date: 2008-01-17
 alias: blog/tech/programming/food_pyramid.html
-
+tags: tech programming
 
 I don't usually write posts for the sole purpose of linking to other
 posts, but this is an exception. <a

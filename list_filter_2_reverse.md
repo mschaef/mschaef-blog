@@ -1,7 +1,7 @@
 title: Formulas Driven from AutoFilters
 date: 2005-10-03
 alias: blog/tech/excel/list_filter_2_reverse.html
-
+tags: tech excel
 
 <b>I had this written out and then discovered a better way. SUBTOTAL
 is "sensitive to AutoFilter settings", right? Assuming A1 isn't empty,
@@ -10,7 +10,7 @@ FALSE otherwise. No VBA necessary.</b>
 
 
 Not too long ago, I made a <a
-href="http://www.mschaef.com/cgi-bin/blosxom.cgi/tech/excel/list_filter_1_howto.txt">post</a>
+href="/list_filter_1_howto.txt">post</a>
 that describes how to replicate some of the behavior of Excel
 Autofilters using a purely formula based approach. One of the
 arguments I put forward in support of that technique is that it makes

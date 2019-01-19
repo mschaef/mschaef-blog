@@ -1,6 +1,7 @@
 title: Oracle and their website...
 date: 2007-03-23
 alias: blog/tech/general/oracle_and_their_website.html
+tags: tech
 
 My current day job involves devloping software that uses Oracle as its
 back end.  I've built a local development environment on my laptop

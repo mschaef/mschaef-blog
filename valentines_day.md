@@ -1,6 +1,7 @@
 title: Valentine's Day Pictures
 date: 2007-02-14
 alias: blog/personal/ryan_charles/valentines_day.html
+tags: personal
 
 Believe it or not, Ryan turned six months old a couple weeks ago. It
 does not seem all that long ago that Teresa and I got up from sitting

@@ -1,6 +1,7 @@
 title: UseHR, High Resolution Displays, and the Internet
 date: 2005-06-30
 alias: blog/tech/general/usehr_and_the_web.html
+tags: tech graphics
 
 For a few years, I used this graphic as the front matter for my
 website:

@@ -1,6 +1,7 @@
 title: vCalc, what's next?
 date: 2006-01-03
 alias: blog/tech/ectworks/vcalc/vcalc_11.html
+tags: tech lisp vcalc
 
 Despite outward appearances, there is (really!) another release of <a
 href="http://www.icegiant.com/vcalc.shtml">vCalc</a> in the works. I'm

@@ -1,6 +1,7 @@
 title: Toilet paper protocol
 date: 2006-06-08
 alias: blog/misc/toilet_paper.html
+tags: tech
 
 I have a small proposal to combat the problem of public toilet
 stalls without toilet paper. If you notice that a stall is missing

@@ -1,7 +1,7 @@
 title: The world's most popular functional programming language...
 date: 2005-09-20
 alias: blog/tech/excel/functional_programming.html
-
+tags: tech excel
 
 This may be something of a suprise, but Excel has even gotten
 the attention of <a href="http://research.microsoft.com">Microsoft

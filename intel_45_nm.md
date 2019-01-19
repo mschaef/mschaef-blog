@@ -1,7 +1,7 @@
 title: Intel's 45 nanometer process...
 date: 2006-01-25
 alias: blog/tech/general/intel_45_nm.html
-
+tags: tech hardware
 
 Intel has released <a
 href="http://news.com.com/2300-1006_3-6030916-1.html?part=rss&tag=6030916&subj=news">pictures

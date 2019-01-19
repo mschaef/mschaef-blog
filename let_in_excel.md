@@ -1,7 +1,7 @@
 title: I had a dream...
 date: 2005-08-24
 alias: blog/tech/excel/let_in_excel.html
-
+tags: tech excel lisp
 
 I literally dreamed about this last night. It would be
 <b>wonderful</b> if Excel supported formulas like this:

@@ -1,7 +1,7 @@
 title: Still not tested... still not working... sort of...
 date: 2008-01-21
 alias: blog/tech/programming/still_not_tested.html
-
+tags: tech programming
 
 Another one along the lines of <a 
 href="http://www.mschaef.com/blog/tech/programming/not_tested_not_working.html">My 

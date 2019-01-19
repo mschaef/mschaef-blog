@@ -1,7 +1,7 @@
 title: Ryan's First Thanksgiving
 date: 2006-11-26
 alias: blog/personal/ryan_charles/first_thanksgiving.html
-
+tags: personal
 
 We just got back from Ryan's first Thanksgiving holiday. Rather than spread
 the travel out across the entire holiday season, we decided to hit both

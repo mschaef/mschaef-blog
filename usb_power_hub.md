@@ -1,6 +1,7 @@
 title: From USB port to battery charger...
 date: 2006-06-22
 alias: blog/tech/general/usb_power_hub.html
+tags: tech hardware
 
 I don't know how plausible it is, but it'd be awfully nice if laptops
 had a way to power USB ports when the machine is off but plugged

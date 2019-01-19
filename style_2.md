@@ -1,7 +1,7 @@
 title: More style updates...
 date: 2006-06-06
-alias: blog/tech/this_blog/style_2.html
-
+alias: blog/tech/this_blog/style_2.htm
+tags: blog
 
 With some advice from <a 
 href="http://www.456bereastreet.com/lab/developing_with_web_standards/csslayout/2-col/">this 

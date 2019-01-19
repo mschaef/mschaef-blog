@@ -1,7 +1,7 @@
 title: Wanna buy a car?
 date: 2006-06-15
-alias: blog/misc/wanna_buy_a_car_p.html
-
+alias: blog/misc/wanna_buy_a_car_p.htm
+tags: personal business
 
 Let's see, the modern car buying experience is:
 

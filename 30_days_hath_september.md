@@ -1,6 +1,7 @@
 title: Thirty days hath September...
 date: 2005-11-09
 alias: blog/tech/excel/30_days_hath_september.html
+tags: tech excel
 
 > Thirty days hath September,<br>
 > the rest I can't remember.<br>

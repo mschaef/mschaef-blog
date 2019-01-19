@@ -1,7 +1,7 @@
 title: Programming Well...
 date: 2004-08-12
 alias: blog/tech/programming/intro.html
-
+tags: tech programming
 
 I'm hardly an authority on programming-related issues, but over the
 years I've developed a small bag of tricks I use to make it easier to

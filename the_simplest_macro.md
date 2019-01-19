@@ -1,6 +1,7 @@
 title: Excel: 'Repeat', the Simplest Macro
 date: 2005-10-06
 alias: blog/tech/excel/the_simplest_macro.html
+tags: tech excel
 
 This is a simple little two-bit Excel trick that I find myself
 using **all the time**, particularly when formatting worksheets.

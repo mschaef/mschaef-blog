@@ -1,6 +1,7 @@
 title: Ghostbusters 2
 date: 2006-11-28
 alias: blog/personal/comments/ghostbusters_2.html
+tags: personal
 
 Teresa and I just re-watched Ghostbusters 2 last night.  While watching it,
 there were a couple scenes that initially struck me as totally being about 

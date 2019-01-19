@@ -1,6 +1,7 @@
 title: Excel 12 Databars, Now. (Sort of)
 date: 2005-10-07
 alias: blog/tech/excel/databar.html
+tags: tech history
 
 Microsoft has just announced a cool new feature on the Excel 12 blog:
 the databar. I think a picture (linked from Microsoft's

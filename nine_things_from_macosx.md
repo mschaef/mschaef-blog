@@ -1,7 +1,7 @@
 title: Nine things from MacOS X
 date: 2005-08-08
 alias: blog/tech/general/nine_things_from_macosx.html
-
+tags: tech osx
 
 I saw a <a href="http://www.icefox.net/articles/kdeosx.php">list of
 nine things KDE can learn from MacOS X</a> over on <a href="http://planetkde.org">

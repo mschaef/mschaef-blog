@@ -1,7 +1,7 @@
 title: List filtering with Formulas in Microsoft Excel: Motivation
 date: 2005-07-18
 alias: blog/tech/excel/list_filter_0_motivation.html
-
+tags: tech excel
 
 One of Excel's more interesting features for querying data sets is the
 AutoFilter. Applied to a table of data in a spreadsheet, The

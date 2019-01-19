@@ -1,6 +1,7 @@
 title: Lawyers and Philadelphia
 date: 2006-09-09
 alias: blog/personal/ryan_charles/lawyers_and_philly.html
+tags: personal
 
 <a
 href="http://www.edmunds.com/apps/vdpcontainers/do/vdp/articleId=104581/pageNumber=1">80%

@@ -1,7 +1,7 @@
 title: Ken Thompson's Baby
 date: 2006-08-27
 alias: blog/personal/ryan_charles/ken_thompsons_baby.html
-
+tags: personal
 
 There's a long running <a
 href="http://research.microsoft.com/~daniel/unix-haters.html">joke</a>
