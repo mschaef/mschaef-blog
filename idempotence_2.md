@@ -1,7 +1,7 @@
 title: Programming Well: Embrace Idempotence, Part 2 (It works at runtime too)
 date: 2005-03-01
 alias: blog/tech/programming/idempotence/idempotence_2.html
-tags: tech programming
+tags: tech programming idempotence
 
 Idempotence has benefits at a program's run-time, as well as at build
 time.  To illustrate, consider the case of a reference counted
@@ -11,39 +11,39 @@ counted string library...</i>):
 
 
 ```c
-struct CountedString					
-{							
-    int  _references;					
-    char *_data;						
-};             						
-							
-CountedString *makeString(char *data)			
-{							
-    CountedString cs = (CountedString *)malloc(sizeof(CountedString));	
-							
-    cs->_references = 1;					
-    cs->_data = strdup(data);				
-							
-    return 1;						
-}							
-							
-CountedString *referToString(CountedString *cs) 	
-{							
-    cs->_references++;					
-    return cs;						
-} 							 
-							
-void doneWithString(CountedString *cs) 			
-{ 							
-    cs->_references--; 					
-							
-    if (cs->_references == 0)				
+struct CountedString
+{
+    int  _references;
+    char *_data;
+};
+
+CountedString *makeString(char *data)
+{
+    CountedString cs = (CountedString *)malloc(sizeof(CountedString));
+
+    cs->_references = 1;
+    cs->_data = strdup(data);
+
+    return 1;
+}
+
+CountedString *referToString(CountedString *cs)
+{
+    cs->_references++;
+    return cs;
+}
+
+void doneWithString(CountedString *cs)
+{
+    cs->_references--;
+
+    if (cs->_references == 0)
     {
-        free(cs->_data);					
-        free(cs); 					
-    } 							
-}							
-							
+        free(cs->_data);
+        free(cs);
+    }
+}
+
 // ... useful library functions go here...
 ```
 
@@ -64,44 +64,44 @@ This means that the beginning of every string function that alters a
 string has to look something like this:
 
 ```c
-CountedString *alterString(CountedString *cs) 		
-{							
-    if (cs->_references > 1)				
-    {							
-        CountedString *uniqueString = makeString(cs->_data);	
-        doneWithString(cs);					
-        cs = uniqueString;					
-    }								
-    
-    \\ ... now, cs can be modified at will			
-								
-     return cs; 
-}	
+CountedString *alterString(CountedString *cs)
+{
+    if (cs->_references > 1)
+    {
+        CountedString *uniqueString = makeString(cs->_data);
+        doneWithString(cs);
+        cs = uniqueString;
+    }
+
+    \\ ... now, cs can be modified at will
+
+     return cs;
+}
 ```
 
 Apply a little refactoring, and you get this...
 
 ```c
-CountedString *ensureUniqueInstance(CountedString *cs)		
-{								
-    if (cs->_references > 1)					
-    {								
-        CountedString *uniqueString = makeString(cs->_data);	
-        doneWithString(cs);					
-        cs = uniqueString;					
-    }								
-								
+CountedString *ensureUniqueInstance(CountedString *cs)
+{
+    if (cs->_references > 1)
+    {
+        CountedString *uniqueString = makeString(cs->_data);
+        doneWithString(cs);
+        cs = uniqueString;
+    }
+
     return cs;
 }
 
-CountedString *alterString(CountedString *cs) 						
-{											
-    cs = ensureUniqueReference(cs);							
-											
-    \\ ... now, cs can be modified at will						
-											
-    return cs; 
-}	
+CountedString *alterString(CountedString *cs)
+{
+    cs = ensureUniqueReference(cs);
+
+    \\ ... now, cs can be modified at will
+
+    return cs;
+}
 ```
 
 Of course, <code>ensureUniqueInstance</code> ends up being idempotent:

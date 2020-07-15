@@ -1,7 +1,7 @@
 title: Programming Well: Embrace Idempotence, Part 1
 date: 2005-02-22
 alias: blog/tech/programming/idempotence/idempotence_1.html
-tags: tech programming
+tags: tech programming idempotence
 
 There's a good <a href="http://dictionary.reference.com/search?q=idempotent">
 definition of the word idempotent</a> over on Dictinoary.com. In a nutshell, the
