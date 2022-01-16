@@ -8,23 +8,21 @@ example of a miminum viable product.
 <img src="earthquake-detection-kit.jpeg" width="272" height="363">
 
 Of course, at least one of the responses was that it's not an MVP
-without some extras. To be an MVP, it needs 24/7 monitoring or a video
-camera with a motion alarm.  To be an MVP, it needs to be able to
-detect quakes that occur off hours or when you're otherwise away from
-the detector. The trouble with this statement is the same as with the
-initial claimed MVP status of this design - both claims make
-assumptions about requirements. The initial claim assumes you're okay
-missing quakes when you're not around and the second assumes you
-really do need to know. To identify an MVP, you really need to
-understand what it means to be viable. In otherwise, you need to
-understand the goals and requirements of your stakeholders and user
-community.
+without some extras. It needs 24/7 monitoring or a video camera with a
+motion alarm.  It needs to detect quakes that occur off hours or when
+you're otherwise away from the detector. The trouble with this
+statement is the same as with the initial claimed MVP status of this
+design - both claims make assumptions about requirements. The initial
+claim assumes you're okay missing quakes when you're not around and
+the second assumes you really do need to know. To identify an MVP, you
+need to understand what it means to be viable. You need to understand
+the goals and requirements of your stakeholders and user community.
 
 Personally, I'm sympathetic to the initial claim that two googly eyes
 stuck on a shet construction paper might actually be a viable
 earthquake detector. As a Texan transplant to the Northeast, I'd never
-experienced an earthquake until the [2011 Virginia
-earthquake](https://en.wikipedia.org/wiki/2011_Virginia_earthquake)
+experienced an earthquake until the 
+[2011 Virginia earthquake](https://en.wikipedia.org/wiki/2011_Virginia_earthquake)
 rattled the walls of my suburban Philly office. Not having any real
 idea what was going on, my co-workers and I walked over to a wall of
 windows to figure it out. Nothing bad happened, but it wasn't a smart
