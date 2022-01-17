@@ -54,11 +54,11 @@ you aim to build.
 One of my first consulting engagments was years ago, for a bank
 building out a power trading system. They wanted to enter the business
 to hedge other trades, and the lack of a trading system to enforce
-controls limits was the reason they couldn't. Contrary to our advice
-as consultants, they initially decided to scratch build a trading
-system in Java. There were two parts of this experience that spoke to
-the idea of understanding requirements and the scope of the minimum
-viable product.
+controls limits was the reason they couldn't. Contrary to the advice
+of my team's leadership, they initially decided to scratch build a
+trading system in Java. There were two parts of this experience that
+spoke to the idea of understanding requirements and the scope of the
+minimum viable product.
 
 The first case can be boiled down to the phrase 'training issue'.
 Coming from a background of packaged software development, my
@@ -80,22 +80,21 @@ to be viable. This was less perfect software, and more about getting
 to minimum viability and getting out of the way of a business that
 needed to run.
 
-The second part of the trading desk story is that most of the way
-through the first phase of the build, the client dropped the custom
-build entirely. Instead, they'd deploy a commercial trading platform
-with some light customizations. There was a lot less to build, but it
-went live much more quickly, particularly in the more complex
-subsequent phases of the work. It turned out that none of the detailed
+The second part of the story is that most of the way through the first
+phase of the build, the client dropped the custom build
+entirely. Instead, they'd deploy a commercial trading platform with
+some light customizations. There was a lot less to build, but it went
+live much more quickly, particularly in the more complex subsequent
+phases of the work. It turned out that none of the detailed
 customizations enabled by the custom build were actually required.
 
-Note that this is not fundementally a negative message, unless you're
-committed to just building things. What the MVP lets you do is lower
-the cost of your build by focusing on what is truly required. In the
-case of a trading organization, it can get your traders doing their
-job more quickly. In the case of an earthquake detector, maybe it
-means you can afford more than just one. Lowering the cost of your
-product can enable it to be used sooner and in more ways than
-otherwise.
+Note that this is not fundementally a negative message. What the MVP
+lets you do is lower the cost of your build by focusing on what is
+truly required. In the case of a trading organization, it can get your
+traders doing their job more quickly. In the case of an earthquake
+detector, maybe it means you can afford more than just one. Lowering
+the cost of your product can enable it to be used sooner and in more
+ways than otherwise.
 
 The concept of an MVP has power because it focuses your attention on
 the actual requirements you're trying to meet. With that clearer
