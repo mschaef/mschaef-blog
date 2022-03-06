@@ -2,16 +2,15 @@ title: Git Commits and Rebasing vs. Merging
 date: 2022-03-05
 tags: tech git
 
-Over most of the ten years I've been using `git`, I've been a strong
-proponent of merging over rebasing. It seemed more honest to avoid
-rewriting commits and likely to produce a more complete history. It
-was also appealing to avoid problems related to rewriting shared
-commits. If you never rewrite a commit, you never rewrite a _shared_
-commit. While all of this is true, over time, the hidden costs of this
-approach played a larger and larger role in my thinking. Now I'm at
-the point where I essentially avoid merge entirely. The result has
-been an easier workflow, with a more useful history of more coherent
-commits.
+Over most of the ten years I've been using [`git`][git], I've been a
+strong proponent of merging over rebasing. It seemed more honest to
+avoid rewriting commits and more likely to produce a complete history.
+There are also problems that arise when you rewrite shared history,
+and you can avoid those entirely if you just never rewrite history at
+all. While all of this is true, the hidden costs of the approach came
+to play an increasing role in my thinking, and these days, I
+essentially avoid merge entirely. The result has been an easier
+workflow, with a more useful history of more coherent commits.
 
 History tracking in a tool like `git` serves a few development
 purposes, some tactical and some strategic.  Tactically speaking, it's
@@ -25,27 +24,29 @@ tool like `git` make it easier to get to your last known good state during
 development, it also makes it easier to get back to the version you
 released last month before your dog destroyed your laptop.
 
-At a strategically level, history tracking gives you another maybe
-more subtle benefit. History tracking gives you the ability to
-document the way your code evolves and the motivations of why it is
-the way it is. Correctly done (and with an IDE), your `git` version
-history gives developers immediate access to the origin of each line
-of code, along with an explanation of how and why it got there. Of
-course, it takes effort to get there. Your history can easily devolve
-into a bunch of _"WIP"_ messages in a randomly associated stream of
-commits. Like everything else in life worth doing, it takes effort to
-ensure that you actually have a commit history that can live up to its
-strategic value.
+At a strategic level, history tracking can give other longer term
+benefits. With a little effort, it's an excellent way to document the
+how and way your code evolves over time. Correctly done (and with an
+IDE), a good version history gives developers immediate access to the
+origin of each line of code, along with an explanation of how and why
+it got there. Of course, it takes effort to get there. Your history
+can easily devolve into a bunch of `"WIP"` messages in a randomly
+associated stream of commits. Like everything else in life worth
+doing, it takes effort to ensure that you actually have a commit
+history that can live up to its strategic value.
 
-This starts with a commit history that people bother to read.  For
-people to bother reading your commit history, they need to believe
+This starts with a commit history that people bother to read, and like
+everthing else, it takes effort to produce something worth reading.
+For people to bother reading your commit history, they need to believe
 that it's worth the time spent to do so. For that to happen, enough
 effort needs to have been spent assembling the history that it's
-possible to understand what's being said. For that to happen, you need
-good commit messages describing a series of useful distinct commits.
-My argument for rebasing over merging boils down to the fact that
-rebase/squash makes it easier to produce a history that has these
-useful properties.
+possible to understand what's being said. This is where the notion of
+a _complete history_ runs into trouble. Just like historians curate
+facts into readable narratives, it is our responsibility as developers
+to take some time to curate our projects' change history. At least if
+we expect them to be read.  My argument for rebasing over merging
+boils down to the fact that rebase/squash makes it easier to do this
+curation and produce a history that has these useful properties.
 
 For a commit to be useful in the future as a point of documentation,
 it needs to contain a coherent unit of work. `git` thinks in terms of
@@ -102,7 +103,4 @@ produce good and useful commit messages. It points in the direction of
 a virtuous cycle where one positive change leads to another and
 another.
 
-
-
-
-
+[git]: https://git-scm.com/
