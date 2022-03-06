@@ -2,9 +2,9 @@ title: Git Commits and Rebasing vs. Merging
 date: 2022-03-05
 tags: tech git
 
-Over most of the ten years I've been using [`git`][git], I've been a
-strong proponent of merging over rebasing. It seemed more honest to
-avoid rewriting commits and more likely to produce a complete history.
+Over most of the ten years I've been using `git`, I've been a strong
+proponent of merging over rebasing. It seemed more honest to avoid
+rewriting commits and more likely to produce a complete history.
 There are also problems that arise when you rewrite shared history,
 and you can avoid those entirely if you just never rewrite history at
 all. While all of this is true, the hidden costs of the approach came
@@ -85,12 +85,11 @@ simplifies your history directly, but it also makes it easier to
 rebase your evelopment branch. Rebasing a branch with a single commit
 avoids introducing historical states that "never existed". The single
 commit also dramatically simplifies the process of merge conflict
-resolution.  Rebase a branch with 10 commits, and you very may well
-have ten opportunities to wade through a merge conflict resolution
-process. Do you really care about the first nine?  Will you really go
-back to those commits and verify that they still work post-rebase? If
-you don't, you're just dumping garbage in your commit log that might
-not even compile, much less run.
+resolution.  Rebase a branch with 10 commits, and you may have 10 sets
+of merge conflicts to resolve. Do you really care about the first
+nine?  Will you really go back to those commits and verify that they
+still work post-rebase? If you don't, you're just dumping garbage in
+your commit log that might not even compile, much less run. 
 
 I'll close with the thought that this approach also lends itself to
 better commit messages. If there are fewer commits, there are fewer
@@ -100,7 +99,6 @@ write commit messages when your commits are self-contained atomic
 units. Squashing and curating commits is useful by itself in that it
 leads to a cleaner history, but it also leads to more opportunities to
 produce good and useful commit messages. It points in the direction of
-a virtuous cycle where one positive change leads to another and
-another.
+a virtuous cycle where positive changes drive other positive changes.
 
 [git]: https://git-scm.com/
